@@ -1,0 +1,2000 @@
+<p><strong><u>Air Force Research Laboratory on behalf of the United States Air Force</u></strong></p>
+<p>The Air Force Research Laboratory is a global technical enterprise, boasting some of the best and brightest leaders in the world. We are Revolutionary, Relevant, and Responsive to the Warfighter. We defend America by unleashing the unconquerable power of scientific and technical innovation. Our mission is leading the discovery, development, and integration of affordable warfighting technologies for our air, space, and cyberspace force.</p>
+<p><strong>First Award of $750 in each Regeneron ISEF Category,</strong></p>
+<p>ANIM016 — <em>The Effects of Electrical Stimulation on Planaria Tissue Regeneration</em></p>
+<ul>
+<li>Ashu Anand, Alabama School of Fine Arts, Tuscaloosa, AL, United States of America</li>
+</ul>
+<p>BCHM029 — <em>Integrative Assessment of the Novel Radioprotective Efficacy of Cardamonin: A Comprehensive in vitro and in silico Analysis</em></p>
+<ul>
+<li>Siddharth Sridharan, Little Rock Central High School, Little Rock, AR, United States of America</li>
+</ul>
+<p>BEHA005 — <em>Mathematical Analysis of Preparatory Neural Activity to Predict Physical Behavior in Motor Sequences</em></p>
+<ul>
+<li>Ria Garg, Texas Academy of Mathematics and Science, Frisco, TX, United States of America</li>
+</ul>
+<p>BMED055 — <em>Validation of Ventilation and Perfusion Using Non-Contrast Computerized Tomography</em></p>
+<ul>
+<li>Alexandra Elizabeth Tombleson, Mamaroneck High School, Larchmont, NY, United States of America</li>
+</ul>
+<p>CBIO036 — <em>A Lens Into Vision: Modeling the Stimuli-Driven Differential Responses of Lobula Columnar Cells in Drosophila</em></p>
+<ul>
+<li>Erin Wong, William A. Shine Great Neck South High School, Great Neck, NY, United States of America</li>
+</ul>
+<p>CELL020 — <em>Investigating the Impact of Parasitic Worm-Induced Secretions on Anaphylaxis</em></p>
+<ul>
+<li>Ethan Ririe, Blacksburg High School, Blacksburg, VA, United States of America</li>
+</ul>
+<p>CHEM015T — <em>Natural Eutectogels as a Novel Material for Green Wearable Electronics</em></p>
+<ul>
+<li>Claire Qingying Huang, Fairview High School, Boulder, CO, United States of America</li>
+<li>Sophia Zhang, Fairview High School, Boulder, CO, United States of America</li>
+</ul>
+<p>EAEV021 — <em>National Ground-Level NO2 Predictions via Satellite Imagery Driven Hybrid Neural Networks</em></p>
+<ul>
+<li>Elton Cao, Fairview High School, Broomfield, CO, United States of America</li>
+</ul>
+<p>EBED024 — <em>Development of a Multi-Sensor System to Prevent Child Vehicular Heatstroke</em></p>
+<ul>
+<li>Clara Kerr, The Athenian School, Danville, CA, United States of America</li>
+</ul>
+<p>EGSD031 — <em>Harvesting Energy at Your Fingertips: Harnessing Mechanical Energy from Typing for Sustainable Power Generation</em></p>
+<ul>
+<li>Sienna Marie Giuseppi , Pelham Memorial High School, Pelham, NY, United States of America</li>
+</ul>
+<p>ENBM050 — <em>Like Trying To Find a Needle in a Blood Sac: Novel Hemostatic Gelatin Microneedle Adhesive (Gel MNA) Polymerized With Commercial Coagulation Agents Achieves Accessible Hemorrhage Treatment</em></p>
+<ul>
+<li>Fernanda Arreola-Lucio, Minnetonka High School, Excelsior, MN, United States of America</li>
+</ul>
+<p>ENEV052T — <em>Robee: A Novel Autonomous Pollinator</em></p>
+<ul>
+<li>Danial Jawad Syed, Hayfield Secondary School, Lorton, VA, United States of America</li>
+<li>Isabel Victoria Aysa-Lastra, Hayfield Secondary School, Alexandria, VA, United States of America</li>
+</ul>
+<p>ETSD009 — <em>Novel Approach to Calculation of Bike Route Distance Using Concept of Fractal Dimension</em></p>
+<ul>
+<li>Mikhail Dmitrievich Abraimov, Lawton Chiles High School, Tallahassee, FL, United States of America</li>
+</ul>
+<p>MATH032 — <em>The Classification and the Hilbert Polynomials of the Coloring of Quandles With Size 6</em></p>
+<ul>
+<li>Aaron Kim, Bronx High School of Science, Flushing, NY, United States of America</li>
+</ul>
+<p>MATS024 — <em>When the Paint&#8217;s On, the Heat&#8217;s Gone</em></p>
+<ul>
+<li>Sophie Shi, Middleton High School, Madison, WI, United States of America</li>
+</ul>
+<p>MCRO006 — <em>Year 2: A Novel Biodegradable Sorbent for Oil Spills</em></p>
+<ul>
+<li>Mahie Mangesh Patil, Orlando Science Schools, Winter Garden, FL, United States of America</li>
+</ul>
+<p>PHYS066 — <em>Optimizing the Laser Alignment Process: Automated Alignment for Enhanced Efficiency in Magneto-Optical Trap Calibration </em></p>
+<ul>
+<li>Tatyana Marie McVay, Paul Duke STEM High School, Peachtree Corners, GA, United States of America</li>
+</ul>
+<p>PLNT020 — <em>Mars or Bust! A Method to Build a Martian Regolith-Based Substrate for Sustainable Agriculture on Mars</em></p>
+<ul>
+<li>Quinn Jacie Hughes, Minnetonka High School, Mound, MN, United States of America</li>
+</ul>
+<p>ROBO039 — <em>Scents and Sensibility: Investigating the Influence of Visual Cues on Olfactory Perception of Humans and Building an AI-based Electronic Nose to Compare the Two</em></p>
+<ul>
+<li>John Newton Anand, Anand Homeschool Academy, Akron, OH, United States of America</li>
+</ul>
+<p>SOFT046T — <em>DynaGrad: A Novel Gradient Descent With Adaptive Dual Learning Rates &amp; Momenta for Improved Optimization and Accelerated Convergence in Deep Neural Networks</em></p>
+<ul>
+<li>Pratishrut Kamal, William G. Enloe High School, Raleigh, NC, United States of America</li>
+<li>Venkata Varshith Vadlamudi, William G. Enloe High School, Apex, NC, United States of America</li>
+</ul>
+<p>TECA019T — <em>Diffusion-Based Conditional Mesh Synthesis for Rapid 3D Visual Design</em></p>
+<ul>
+<li>Anant Khandelwal, Thomas Jefferson High School for Science and Technology, Arlington, VA, United States of America</li>
+<li>Siddhant Sood, Thomas Jefferson High School for Science and Technology, Herndon, VA, United States of America</li>
+<li>Sritan Motati, Thomas Jefferson High School for Science and Technology, Chantilly, VA, United States of America</li>
+</ul>
+<p>TMED037 — <em>Advancing Wound Infection Assessment by Utilizing pH-Sensitive Curcuma Longa, Phase II</em></p>
+<ul>
+<li>Ishita Mukadam, Maharishi School of the Age of Enlightenment, Fairfield, IA, United States of America</li>
+</ul>
+<p><strong>Glass trophy and USAF medal for each recipient</strong></p>
+<p>ANIM016 — <em>The Effects of Electrical Stimulation on Planaria Tissue Regeneration</em></p>
+<ul>
+<li>Ashu Anand, Alabama School of Fine Arts, Tuscaloosa, AL, United States of America</li>
+</ul>
+<p>BCHM029 — <em>Integrative Assessment of the Novel Radioprotective Efficacy of Cardamonin: A Comprehensive in vitro and in silico Analysis</em></p>
+<ul>
+<li>Siddharth Sridharan, Little Rock Central High School, Little Rock, AR, United States of America</li>
+</ul>
+<p>BEHA005 — <em>Mathematical Analysis of Preparatory Neural Activity to Predict Physical Behavior in Motor Sequences</em></p>
+<ul>
+<li>Ria Garg, Texas Academy of Mathematics and Science, Frisco, TX, United States of America</li>
+</ul>
+<p>BMED055 — <em>Validation of Ventilation and Perfusion Using Non-Contrast Computerized Tomography</em></p>
+<ul>
+<li>Alexandra Elizabeth Tombleson, Mamaroneck High School, Larchmont, NY, United States of America</li>
+</ul>
+<p>CBIO036 — <em>A Lens Into Vision: Modeling the Stimuli-Driven Differential Responses of Lobula Columnar Cells in Drosophila</em></p>
+<ul>
+<li>Erin Wong, William A. Shine Great Neck South High School, Great Neck, NY, United States of America</li>
+</ul>
+<p>CELL020 — <em>Investigating the Impact of Parasitic Worm-Induced Secretions on Anaphylaxis</em></p>
+<ul>
+<li>Ethan Ririe, Blacksburg High School, Blacksburg, VA, United States of America</li>
+</ul>
+<p>CHEM015T — <em>Natural Eutectogels as a Novel Material for Green Wearable Electronics</em></p>
+<ul>
+<li>Claire Qingying Huang, Fairview High School, Boulder, CO, United States of America</li>
+<li>Sophia Zhang, Fairview High School, Boulder, CO, United States of America</li>
+</ul>
+<p>EAEV021 — <em>National Ground-Level NO2 Predictions via Satellite Imagery Driven Hybrid Neural Networks</em></p>
+<ul>
+<li>Elton Cao, Fairview High School, Broomfield, CO, United States of America</li>
+</ul>
+<p>EBED024 — <em>Development of a Multi-Sensor System to Prevent Child Vehicular Heatstroke</em></p>
+<ul>
+<li>Clara Kerr, The Athenian School, Danville, CA, United States of America</li>
+</ul>
+<p>EGSD031 — <em>Harvesting Energy at Your Fingertips: Harnessing Mechanical Energy from Typing for Sustainable Power Generation</em></p>
+<ul>
+<li>Sienna Marie Giuseppi , Pelham Memorial High School, Pelham, NY, United States of America</li>
+</ul>
+<p>ENBM050 — <em>Like Trying To Find a Needle in a Blood Sac: Novel Hemostatic Gelatin Microneedle Adhesive (Gel MNA) Polymerized With Commercial Coagulation Agents Achieves Accessible Hemorrhage Treatment</em></p>
+<ul>
+<li>Fernanda Arreola-Lucio, Minnetonka High School, Excelsior, MN, United States of America</li>
+</ul>
+<p>ENEV052T — <em>Robee: A Novel Autonomous Pollinator</em></p>
+<ul>
+<li>Danial Jawad Syed, Hayfield Secondary School, Lorton, VA, United States of America</li>
+<li>Isabel Victoria Aysa-Lastra, Hayfield Secondary School, Alexandria, VA, United States of America</li>
+</ul>
+<p>ETSD009 — <em>Novel Approach to Calculation of Bike Route Distance Using Concept of Fractal Dimension</em></p>
+<ul>
+<li>Mikhail Dmitrievich Abraimov, Lawton Chiles High School, Tallahassee, FL, United States of America</li>
+</ul>
+<p>MATH032 — <em>The Classification and the Hilbert Polynomials of the Coloring of Quandles With Size 6</em></p>
+<ul>
+<li>Aaron Kim, Bronx High School of Science, Flushing, NY, United States of America</li>
+</ul>
+<p>MATS024 — <em>When the Paint&#8217;s On, the Heat&#8217;s Gone</em></p>
+<ul>
+<li>Sophie Shi, Middleton High School, Madison, WI, United States of America</li>
+</ul>
+<p>MCRO006 — <em>Year 2: A Novel Biodegradable Sorbent for Oil Spills</em></p>
+<ul>
+<li>Mahie Mangesh Patil, Orlando Science Schools, Winter Garden, FL, United States of America</li>
+</ul>
+<p>PHYS066 — <em>Optimizing the Laser Alignment Process: Automated Alignment for Enhanced Efficiency in Magneto-Optical Trap Calibration </em></p>
+<ul>
+<li>Tatyana Marie McVay, Paul Duke STEM High School, Peachtree Corners, GA, United States of America</li>
+</ul>
+<p>PLNT020 — <em>Mars or Bust! A Method to Build a Martian Regolith-Based Substrate for Sustainable Agriculture on Mars</em></p>
+<ul>
+<li>Quinn Jacie Hughes, Minnetonka High School, Mound, MN, United States of America</li>
+</ul>
+<p>ROBO039 — <em>Scents and Sensibility: Investigating the Influence of Visual Cues on Olfactory Perception of Humans and Building an AI-based Electronic Nose to Compare the Two</em></p>
+<ul>
+<li>John Newton Anand, Anand Homeschool Academy, Akron, OH, United States of America</li>
+</ul>
+<p>SOFT046T — <em>DynaGrad: A Novel Gradient Descent With Adaptive Dual Learning Rates &amp; Momenta for Improved Optimization and Accelerated Convergence in Deep Neural Networks</em></p>
+<ul>
+<li>Pratishrut Kamal, William G. Enloe High School, Raleigh, NC, United States of America</li>
+<li>Venkata Varshith Vadlamudi, William G. Enloe High School, Apex, NC, United States of America</li>
+</ul>
+<p>TECA019T — <em>Diffusion-Based Conditional Mesh Synthesis for Rapid 3D Visual Design</em></p>
+<ul>
+<li>Anant Khandelwal, Thomas Jefferson High School for Science and Technology, Arlington, VA, United States of America</li>
+<li>Siddhant Sood, Thomas Jefferson High School for Science and Technology, Herndon, VA, United States of America</li>
+<li>Sritan Motati, Thomas Jefferson High School for Science and Technology, Chantilly, VA, United States of America</li>
+</ul>
+<p>TMED037 — <em>Advancing Wound Infection Assessment by Utilizing pH-Sensitive Curcuma Longa, Phase II</em></p>
+<ul>
+<li>Ishita Mukadam, Maharishi School of the Age of Enlightenment, Fairfield, IA, United States of America</li>
+</ul>
+<p><strong><u>Alfred University</u></strong></p>
+<p>Alfred University, located in Alfred, New York with 2,000 undergraduate and graduate students majoring in Engineering, Art &amp; Design, Business, and the Liberal Arts &amp; Sciences. Often ranked as one of the best colleges for Ceramics, Glass, and Material Sciences. Alfred University helps students realize their purpose through mentorship, inclusivity, and intersections.</p>
+<p><strong>Full tuition scholarship</strong></p>
+<p>EGSD035 — <em>Redefining the Landscape of Hydrogen Safety Using Innovative Gasochromic Technology</em></p>
+<ul>
+<li>Alia Wahban, Hillfield Strathallan College, Oakville, Ontario, Canada</li>
+</ul>
+<p>MATS012 — <em>Biomimetic, Micro-Structured and Hydrophobic Surfaces for Blood-Repellent Medical Devices</em></p>
+<ul>
+<li>Madison Julianna Gambin, Palos Verdes Peninsula High School, Rancho Palos Verdes, CA, United States of America</li>
+</ul>
+<p><strong><u>American Chemical Society</u></strong></p>
+<p>The American Chemical Society Education Division promotes excellence in science education and science literacy through a number of activities supporting teachers and learners of chemistry. Through its participation in Regeneron ISEF, ACS encourages and supports high school students in their exploration of the chemical sciences through research experiences.</p>
+<p><strong>First Award of $4,000</strong></p>
+<p>BCHM018 — <em>Human Milk Immune Complexes Isolated Following Pregnancies Complicated by COVID-19 Infection Contain SARS-CoV-2 Nsp13 Helicase and Biologically Active Factors</em></p>
+<ul>
+<li>Vaishnavi Kolluru, Dougherty Valley High School, San Ramon, CA, United States of America</li>
+</ul>
+<p><strong>Second Award of $3,000</strong></p>
+<p>CHEM012 — <em>Chemical Modification of Acetaminophen to Decrease Liver Toxicity</em></p>
+<ul>
+<li>Chloe Yehwon Lee, Plano East Senior High School, Murphy, TX, United States of America</li>
+</ul>
+<p><strong>Third Award of $2,000</strong></p>
+<p>CHEM035 — <em>Novel TMOS-Dependent Synthesis of Water-Stable CsPbBr3-SiO2 Nanoparticles for Bioimaging Applications </em></p>
+<ul>
+<li>Katherine Lam, University High School, Tucson, AZ, United States of America</li>
+</ul>
+<p><strong>Fourth Award of $1,000</strong></p>
+<p>CHEM036 — <em>Synergistic Development of Perovskite Oxide Electrocatalysts Through Metal-Organic Framework Precursors for Energy Conversion Applications</em></p>
+<ul>
+<li>Abeer Ali Alyousef, Dohat Alibdaa International Schools, Alahsa, Eastern Province , Saudi Arabia</li>
+</ul>
+<p><strong>Diploma of Recognition and $100 gift card</strong></p>
+<p>BCHM033 — <em>The Effect of Liposomes on Drug Delivery of Ascorbic Acid</em></p>
+<ul>
+<li>Thien-Nhi Allison Nguyen, West Shore Junior/Senior High School, Melbourne, FL, United States of America</li>
+</ul>
+<p>CHEM046T — <em>Dyes Adsorption Using Activated Carbon From Coffee Capsule Grounds</em></p>
+<ul>
+<li>Alana Carolina da Costa Franca, Instituto Federal da Bahia (IFBA) &#8211; Campus Camacari, Dias d&#8217;Avila, Bahia, Brazil</li>
+<li>Caio Nunes Santana, Instituto Federal da Bahia (IFBA) &#8211; Campus Camacari, Camacari, Bahia, Brazil</li>
+<li>Emily Kanashiro da Hora, Instituto Federal da Bahia (IFBA) &#8211; Campus Camacari, Camacari, Bahia, Brazil</li>
+</ul>
+<p>CHEM058 — <em>Synthesis and Evaluation of a Low-Cost Biopolymer Encapsulant for Lead Sequestration in Halide Perovskite Solar Cells</em></p>
+<ul>
+<li>Abhinav Venkata Meduri, North Carolina School of Science and Mathematics, Cary, NC, United States of America</li>
+</ul>
+<p>CHEM068 — <em>Optimizing Synthesis of mRNA Therapeutics</em></p>
+<ul>
+<li>Srijay Sritaharan Chenna, The Charter School of Wilmington, Newark, DE, United States of America</li>
+</ul>
+<p><strong><u>American Mathematical Society</u></strong></p>
+<p>The American Mathematical Society was founded in 1888, to further the interests of mathematical research &amp; scholarship, as well as to serve the national/international community through its publications, meetings, advocacy &amp; other programs. Friends and family of the late mathematician, Karl Menger, contribute to a fund in his memory, to be distributed by the AMS for annual awards at the Regeneron International Science and Engineering Fair.</p>
+<p><strong>First Award of $2,000</strong></p>
+<p>MATH018 — <em>On an Approximation of Divisor Sum Functions With Bernoulli Polynomials and the Hardy Littlewood Function</em></p>
+<ul>
+<li>Quang Tran, Patrick F. Taylor Science &amp; Technology Academy, Harvey, LA, United States of America</li>
+</ul>
+<p><strong>Second Award of $1,000</strong></p>
+<p>MATH002 — <em>Symmetry, Fixed Points and Quantum Billiards: A Confluence of Ideas</em></p>
+<ul>
+<li>Anna Oliva, Carnegie Vanguard High School, Houston, TX, United States of America</li>
+</ul>
+<p>MATH012 — <em>Integration of Sequences</em></p>
+<ul>
+<li>Emma Rueter, Leibniz-Gymnasium Berlin, Berlin, Germany</li>
+</ul>
+<p><strong>Third Award of $500</strong></p>
+<p>MATH006 — <em>Euler-phi Partitions, p-Euler-phi Partitions, Inverse-p-Euler-phi Partitions and Their Generating Functions</em></p>
+<ul>
+<li>Arda Ozcelebi, Izmir Ozel Ege Lisesi, Izmir, Turkey</li>
+</ul>
+<p>MATH013 — <em>A Study on Arc Index of Theta Curves</em></p>
+<ul>
+<li>Yoonsang Lee, Korea Science Academy of KAIST, Seoul, South Korea</li>
+</ul>
+<p>MATH030T — <em>An Elementary Method for Fast Modular Exponentiation With Factored Modulus</em></p>
+<ul>
+<li>Anay Aggarwal, Jesuit High School, Portland, OR, United States of America</li>
+<li>Manu Isaacs, Jesuit High School, Portland, OR, United States of America</li>
+</ul>
+<p>MATH034 — <em>Virtually Reconstructing an Ancient Musical Instrument</em></p>
+<ul>
+<li>Helena Welch, Los Alamos High School, Los Alamos, NM, United States of America</li>
+</ul>
+<p><strong>Honorable Mention and One-Year Membership to AMS (for 5 projects with up to 3 team members per project)</strong></p>
+<p>MATH003 — <em>Enhancing Ethereum&#8217;s Security With LUMEN, Novel Zero-Knowledge Algorithms Generating Transparent and Efficient SNARKs Based on Hidden Order Groups</em></p>
+<ul>
+<li>Yunjia Quan, Charlotte Country Day School, Charlotte, NC, United States of America</li>
+</ul>
+<p>MATH008 — <em>Injective Chromatic Index of Packet Radio Networks: Improved Upper Bounds </em></p>
+<ul>
+<li>Austin Luo, Morgantown High School, Morgantown, WV, United States of America</li>
+</ul>
+<p>MATH010 — <em>Detecting Causality in 2+1 Dimension Spacetimes Using Symplectic Quandles</em></p>
+<ul>
+<li>Ayush Jain, Shri Ram School &#8211; Aravali Campus, Gurugram, Haryana, India</li>
+</ul>
+<p>MATH014 — <em>Twisted Homogeneous Racks Over the Alternating Groups</em></p>
+<ul>
+<li>Joseph Amichai Vulakh, Paul Laurence Dunbar High School, Lexington, KY, United States of America</li>
+</ul>
+<p>MATH016 — <em>Fibonacci Analogues of Legendre&#8217;s Formula and Fine&#8217;s Theorem</em></p>
+<ul>
+<li>Arav Chand, Half Hollow Hills High School West, Dix Hills, NY, United States of America</li>
+</ul>
+<p>MATH025 — <em>Linear Group of Seventh Chord Transformations</em></p>
+<ul>
+<li>Songtianze Huang, Hangzhou Foreign Languages School, Hangzhou, Zhejiang, China</li>
+</ul>
+<p>MATH027 — <em>Enhancing Federated Learning Using Mathematical Theorems and Coding Technologies</em></p>
+<ul>
+<li>Sarah Lu, Centro Residencial de Oportunidades Educativas de Mayaguez, Mayaguez, Puerto Rico</li>
+</ul>
+<p><strong>One-Year Membership to American Mathematical Society to each winner (7 winning projects, up to 3 team members per project)</strong></p>
+<p>MATH002 — <em>Symmetry, Fixed Points and Quantum Billiards: A Confluence of Ideas</em></p>
+<ul>
+<li>Anna Oliva, Carnegie Vanguard High School, Houston, TX, United States of America</li>
+</ul>
+<p>MATH006 — <em>Euler-phi Partitions, p-Euler-phi Partitions, Inverse-p-Euler-phi Partitions and Their Generating Functions</em></p>
+<ul>
+<li>Arda Ozcelebi, Izmir Ozel Ege Lisesi, Izmir, Turkey</li>
+</ul>
+<p>MATH012 — <em>Integration of Sequences</em></p>
+<ul>
+<li>Emma Rueter, Leibniz-Gymnasium Berlin, Berlin, Germany</li>
+</ul>
+<p>MATH013 — <em>A Study on Arc Index of Theta Curves</em></p>
+<ul>
+<li>Yoonsang Lee, Korea Science Academy of KAIST, Seoul, South Korea</li>
+</ul>
+<p>MATH018 — <em>On an Approximation of Divisor Sum Functions With Bernoulli Polynomials and the Hardy Littlewood Function</em></p>
+<ul>
+<li>Quang Tran, Patrick F. Taylor Science &amp; Technology Academy, Harvey, LA, United States of America</li>
+</ul>
+<p>MATH030T — <em>An Elementary Method for Fast Modular Exponentiation With Factored Modulus</em></p>
+<ul>
+<li>Anay Aggarwal, Jesuit High School, Portland, OR, United States of America</li>
+<li>Manu Isaacs, Jesuit High School, Portland, OR, United States of America</li>
+</ul>
+<p>MATH034 — <em>Virtually Reconstructing an Ancient Musical Instrument</em></p>
+<ul>
+<li>Helena Welch, Los Alamos High School, Los Alamos, NM, United States of America</li>
+</ul>
+<p><strong><u>American Psychological Association</u></strong></p>
+<p>The American Psychological Association is the leading scientific and professional organization representing psychology in the United States, with more than 157,000 researchers, educators, clinicians, consultants and students as its members. APA’s mission is to promote the advancement, communication, and application of psychological science and knowledge to benefit society and improve lives.</p>
+<p><strong>Complimentary student affiliate memberships</strong></p>
+<p>ANIM037 — <em>Concentration-Dependent Effects of Dietary Niacin and NAD+ in Longevity, Memory, and Motor Function of Drosophila melanogaster </em></p>
+<ul>
+<li>Olivia Saun So, Harvard-Westlake Upper School, Studio City, CA, United States of America</li>
+</ul>
+<p>ANIM039 — <em>Rhythms and Blues: Examining Potential Health Hazards of Blue Light-induced Circadian Disruption in Drosophila melanogaster</em></p>
+<ul>
+<li>Rania S. Lateef, Governor&#8217;s School at Innovation Park, Manassas, VA, United States of America</li>
+</ul>
+<p>BEHA012T — <em>Searching for &#8220;Magic Pill&#8221;: A Novel Adenosine Modulator in the Treatment of Schizophrenia and Stress-Related Disorders</em></p>
+<ul>
+<li>Shao-Chieh Fu, Taipei Municipal Chien Kuo High School, New Taipei City, Taiwan</li>
+<li>Yu-Pin Tsao, Taipei Municipal Chien Kuo High School, New Taipei City, Taiwan</li>
+</ul>
+<p>BEHA015 — <em>Differential Empathy, Social Dominance Orientation, and the Limitations of Social Science Research</em></p>
+<ul>
+<li>Sierra Anne Sun, The Waterford School, Sandy, UT, United States of America</li>
+</ul>
+<p>BEHA037 — <em>ArabLexify: Elevating Early Dyslexia Diagnosis in Arabic-Speaking Children Ages 6-12 by Utilizing Accessible Digital Screening Tool</em></p>
+<ul>
+<li>Mohamed Ahmed Sakr, Obour STEM School, Cairo, Egypt</li>
+</ul>
+<p>BEHA045 — <em>Harmony: A Remote AI-based Monitoring and Prediction System for Manic and Depression Episodes in Bipolar Disorders</em></p>
+<ul>
+<li>Sahar Ashraf Ahmed, City Schools, Sohag, Egypt</li>
+</ul>
+<p>BEHA048 — <em>The Recursive Relationship Between Personalized Music Choice and Adolescent Mental Wellness: An Empirical Study</em></p>
+<ul>
+<li>Aanya Gupta, Horace Mann School, New York, NY, United States of America</li>
+</ul>
+<p><strong>First Award of $1,500</strong></p>
+<p>BEHA045 — <em>Harmony: A Remote AI-based Monitoring and Prediction System for Manic and Depression Episodes in Bipolar Disorders</em></p>
+<ul>
+<li>Sahar Ashraf Ahmed, City Schools, Sohag, Egypt</li>
+</ul>
+<p><strong>Second Award of $1,000</strong></p>
+<p>BEHA015 — <em>Differential Empathy, Social Dominance Orientation, and the Limitations of Social Science Research</em></p>
+<ul>
+<li>Sierra Anne Sun, The Waterford School, Sandy, UT, United States of America</li>
+</ul>
+<p><strong>Third Award of $500</strong></p>
+<p>ANIM037 — <em>Concentration-Dependent Effects of Dietary Niacin and NAD+ in Longevity, Memory, and Motor Function of Drosophila melanogaster </em></p>
+<ul>
+<li>Olivia Saun So, Harvard-Westlake Upper School, Studio City, CA, United States of America</li>
+</ul>
+<p>ANIM039 — <em>Rhythms and Blues: Examining Potential Health Hazards of Blue Light-induced Circadian Disruption in Drosophila melanogaster</em></p>
+<ul>
+<li>Rania S. Lateef, Governor&#8217;s School at Innovation Park, Manassas, VA, United States of America</li>
+</ul>
+<p>BEHA012T — <em>Searching for &#8220;Magic Pill&#8221;: A Novel Adenosine Modulator in the Treatment of Schizophrenia and Stress-Related Disorders</em></p>
+<ul>
+<li>Shao-Chieh Fu, Taipei Municipal Chien Kuo High School, New Taipei City, Taiwan</li>
+<li>Yu-Pin Tsao, Taipei Municipal Chien Kuo High School, New Taipei City, Taiwan</li>
+</ul>
+<p>BEHA037 — <em>ArabLexify: Elevating Early Dyslexia Diagnosis in Arabic-Speaking Children Ages 6-12 by Utilizing Accessible Digital Screening Tool</em></p>
+<ul>
+<li>Mohamed Ahmed Sakr, Obour STEM School, Cairo, Egypt</li>
+</ul>
+<p>BEHA048 — <em>The Recursive Relationship Between Personalized Music Choice and Adolescent Mental Wellness: An Empirical Study</em></p>
+<ul>
+<li>Aanya Gupta, Horace Mann School, New York, NY, United States of America</li>
+</ul>
+<p><strong><u>Arizona State University</u></strong></p>
+<p>Arizona State University is pleased to offer a scholarship combining a monetary award and an environment focusing on knowledge, learning and research. The New American University ISEF Scholarship is renewable for four years. Individuals and teams will be considered for these awards.</p>
+<p><strong>Arizona State University ISEF Scholarship (valued at up to $58,000 each)</strong></p>
+<p>BEHA002 — <em>Targeting ADHD with a Noninvasive System to Improve Concentration Based on Electroencephalogram and Neurofeedback Methodology</em></p>
+<ul>
+<li>Emma Christine Lee, Stanton College Preparatory School, Jacksonville, FL, United States of America</li>
+</ul>
+<p>BEHA010T — <em>Finding Relief in Back Pain Through an Accessible Laptop Stand</em></p>
+<ul>
+<li>Nichelle Corpuz, Waipahu High School, Waipahu, HI, United States of America</li>
+<li>Zea Hope Galacgac, Waipahu High School, Waipahu, HI, United States of America</li>
+</ul>
+<p>BEHA023 — <em>Towards Improved Recognition and Diagnosis of Autism Among Females – A Novel Approach Using Machine Learning</em></p>
+<ul>
+<li>Aanika Tangirala, Lakeside School, Seattle, WA, United States of America</li>
+</ul>
+<p>CHEM067 — <em>The Ultimate Plant-Powered Bike Lube</em></p>
+<ul>
+<li>Brandon Ambridge Dunn, Fremont High School, Plain City, UT, United States of America</li>
+</ul>
+<p>EAEV101 — <em>Investigating Concentrates of Uranium and Other Hazardous Metals/Metalloids in the Surrounding Environments of Uranium Contaminated Waters on the Navajo Nation</em></p>
+<ul>
+<li>Haylei Redhouse, Navajo Preparatory School, Tsaile, AZ, United States of America</li>
+</ul>
+<p>EGSD047 — <em>Waste to Watts: Converting Locally Sourced Organic Waste Material Into Activated Carbon Based Supercapacitors</em></p>
+<ul>
+<li>Shrey Rohilla, The Classical Academy &#8211; North, Colorado Springs, CO, United States of America</li>
+</ul>
+<p>ENBM039T — <em>OralAI: A Fluorescence Based Mobile System for Dental Disease Prevention</em></p>
+<ul>
+<li>Ayush Garg, Dublin High School, Dublin, CA, United States of America</li>
+<li>Divij Motwani, Palo Alto Senior High School, Palo Alto, CA, United States of America</li>
+</ul>
+<p>ENEV051 — <em>Revision in Airfoil Design to Increase Fuel Efficiency in Commercial Aircraft</em></p>
+<ul>
+<li>Sungwon Lee, Troy High School, Troy, MI, United States of America</li>
+</ul>
+<p>ENEV055T — <em>Sensor-Assisted, Noninvasive Monitoring for Operational, Investigative and Predictive Hive Health Management for Honeybee Colonies – Sustainable Bee Keeping</em></p>
+<ul>
+<li>Naithruv Kashyap, Westwood High School, Austin, TX, United States of America</li>
+<li>Suchir Kumar, Westwood High School, Austin, TX, United States of America</li>
+</ul>
+<p>ETSD066 — <em>I.D.A.S &#8211; Interlocking Drone Aerial Swarm: Enhancing Thrust and Battery Configuration Flexibility</em></p>
+<ul>
+<li>Yuvan Senthil, BASIS Peoria, Phoenix, AZ, United States of America</li>
+</ul>
+<p>MCRO032T — <em>Bacterial Acoustic: Investigating the Impact of White Noise on the Growth of E. coli </em></p>
+<ul>
+<li>Andrea Angelye Ananya Betancourt, Harvest Preparatory Academy, Yuma, AZ, United States of America</li>
+<li>Diana Paula Navarro Ruiz, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+<li>Diane Sofia Ladino, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+</ul>
+<p>PHYS034 — <em>Gear-Based Topological Mechanical Metamaterials</em></p>
+<ul>
+<li>Belen Ariana Franco de la Matta, Bergen County Academies, Northvale, NJ, United States of America</li>
+</ul>
+<p>PLNT012 — <em>The Growth of Spinach in Vertical and Horizontal Hydroponics</em></p>
+<ul>
+<li>Lauren Johnson, Mililani High School, Mililani, HI, United States of America</li>
+</ul>
+<p>PLNT020 — <em>Mars or Bust! A Method to Build a Martian Regolith-Based Substrate for Sustainable Agriculture on Mars</em></p>
+<ul>
+<li>Quinn Jacie Hughes, Minnetonka High School, Mound, MN, United States of America</li>
+</ul>
+<p>PLNT035T — <em>Pest Buster! Pests Repelling Biodegradable Weed Barrier Infused with Grape Skin and Turmeric Extracts: Year 2 Study</em></p>
+<ul>
+<li>Humberto Gil Villalobos, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+<li>Michael Tristan Castro Lucero, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+</ul>
+<p>ROBO061T — <em>Smart Device for the Visually Impaired</em></p>
+<ul>
+<li>Danaya Jaslene Figueroa, Grand Terrace High School, Colton, CA, United States of America</li>
+<li>Priscilla Elena Munoz, Grand Terrace High School, Bloomington , CA, United States of America</li>
+</ul>
+<p>SOFT010 — <em>Help! I Need Somebody: An Assistive Device That Notifies Emergency Services Once a Fall Has Been Detected</em></p>
+<ul>
+<li>Maria Faith Sears, Monte Vista High School, Monte Vista, CO, United States of America</li>
+</ul>
+<p>TMED002 — <em>Disinfectant Properties of Nuphar advena: An Ethnopharmaceutical Approach</em></p>
+<ul>
+<li>Johanna Lynn Bernu, Cloquet Senior High School, Cloquet, MN, United States of America</li>
+</ul>
+<p><strong><u>Association for Computing Machinery</u></strong></p>
+<p>ACM is widely recognized as the premier membership organization for computing professionals, delivering resources that advance computing as a science and a profession; enable professional development; and promote policies and research that benefit society. ACM hosts the computing industry&#8217;s leading Digital Library and serves its global members and the computing profession with journals and magazines, conferences, workshops, electronic forums, and Learning Center.</p>
+<p><strong>First Award of $4,000</strong></p>
+<p>ROBO033T — <em>VannameiVision: A Novel End-to-End Pipeline for Stock Quality Assessment With a Case Study in Shrimp Post-larvae Screening From Robust Data Acquisition to Autonomous Segmentation and Systematic Characterization of Count, Size, and Vitality</em></p>
+<ul>
+<li>Patipond Tiyapunjanit, Princess Chulabhon Science High School Pathumthani, Minburi, Bangkok, Thailand</li>
+<li>Thinnaphat Siammai, Princess Chulabhon Science High School Pathumthani, Min Buri, Bangkok, Thailand</li>
+</ul>
+<p><strong>Second Award of $3,000</strong></p>
+<p>SOFT032 — <em>Developing a Novel Paradigm for the Distributed Storage of Digital Information</em></p>
+<ul>
+<li>Lianne Ahmed Algrafi, Dar AlFikr Schools, Jeddah, Saudi Arabia</li>
+</ul>
+<p><strong>Third Award of $1,500</strong></p>
+<p>SOFT052 — <em>Developing a Novel Holistic, Personalized Dementia Risk Prediction Model via Integration of Machine Learning and Network Systems Biology Approaches</em></p>
+<ul>
+<li>Srilekha Mamidala, Garnet Valley High School, Garnet Valley, PA, United States of America</li>
+</ul>
+<p><strong>Fourth Award of $500</strong></p>
+<p>ROBO035 — <em>The Virtual Cardiologist: Three Deep Learning Pipelines in an Inexpensive Portable Device and Web/Mobile Application for Rapid Cardiovascular Diagnosis and Clinical Decision-Making</em></p>
+<ul>
+<li>Shiv Mehrotra-Varma, Clovis North High School, Fresno, CA, United States of America</li>
+</ul>
+<p>SOFT035 — <em>Software for Customized Development of Partial Hand Prostheses in the 3D-Printed Prosthetics Community</em></p>
+<ul>
+<li>Katherine Cha Robertson, Sage Hill School, Irvine, CA, United States of America</li>
+</ul>
+<p>SOFT055T — <em>Integration of Deep Learning Into Automatic Volumetric Cardiovascular Dissection and Reconstruction in Simulated 3D Space for Medical Practice</em></p>
+<ul>
+<li>Le Quoc Bao Nguyen, Le Hong Phong High School for the Gifted, Ho Chi Minh, Viet Nam</li>
+<li>Tuan Hy Le, Le Hong Phong High School for the Gifted, Ho Chi Minh City, Viet Nam</li>
+</ul>
+<p><strong><u>Association for the Advancement of Artificial Intelligence</u></strong></p>
+<p>AAAI is a scientific society devoted to advancing the scientific understanding of the mechanisms underlying thought and intelligent behavior and their embodiment in machines. AAAI promotes research in, and responsible use of, artificial intelligence, as well as public understanding of artificial intelligence. AAAI also strives to improve the teaching and training of AI practitioners, and provide guidance on the importance and potential of current AI developments and future directions.</p>
+<p><strong>First Award of $1,500</strong></p>
+<p>ROBO019T — <em>State Space Models Are All You Need</em></p>
+<ul>
+<li>Aidan Ong, Hwa Chong Institution, Singapore, Singapore</li>
+<li>Junxiang Cai, National Junior College, Singapore, Singapore, Singapore</li>
+</ul>
+<p><strong>Second Award of $1,000</strong></p>
+<p>SOFT043 — <em>Gaze Link: A Multi-language Low-Cost Mobile Eye-Gesture Communication System With Large Language Models for People With Amyotrophic Lateral Sclerosis</em></p>
+<ul>
+<li>Xiangzhou Sun, Webb School of California, Claremont, CA, United States of America</li>
+</ul>
+<p><strong>Third Award of $500</strong></p>
+<p>TMED025 — <em>Alcott: A Convolutional Neural Network to Predict Multimeric Interactions in HIV-1 Neural Infection</em></p>
+<ul>
+<li>Anna Grace Mohanty, Washington-Lee High School, Arlington, VA, United States of America</li>
+</ul>
+<p><strong>Honorable Mention </strong></p>
+<p>BMED023 — <em>Improving Racial Equity in Skin Cancer Detection: Using Artificial Intelligence Driven Synthetic Image Generation and Cascading Convolutional Neural Networks to Diagnose Cancer in Lesions of Varying Skin Tones</em></p>
+<ul>
+<li>Kate Choi, The Potomac School, McLean, VA, United States of America</li>
+</ul>
+<p>CBIO033 — <em>A Deep Semi-Supervised Domain Generalization Approach for Epileptic Seizure Prediction Using Electroencephalography (EEG)</em></p>
+<ul>
+<li>Sunwoo (Ria) An, Loomis Chaffee School, Windsor, CT, United States of America</li>
+</ul>
+<p>ENBM066T — <em>PoDE &#8211; A Platform Leveraging Characteristic Time Series Patterns of Oculomotor Control Attributable to Cholinergic Neuron Destruction in the Parietal Lobe, Indicating Early Alzheimer&#8217;s Disease Utilizing the PoDE Neural Network</em></p>
+<ul>
+<li>Lenny Thomas, The Prince Royal&#8217;s College, Mueang Chiang Mai, Chiang Mai, Thailand</li>
+<li>Tanyada Thongbai, The Prince Royal&#8217;s College, Hang Dong, Chiang Mai, Thailand</li>
+<li>Tin Potikanond, The Prince Royal&#8217;s College, Mueang , Chiang Mai, Thailand</li>
+</ul>
+<p>ROBO007T — <em>Advancing Pet Face Recognition: A Deep Learning Approach With a Large-Scale Dataset </em></p>
+<ul>
+<li>Hiu Yan Lin, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+<li>Nok Him Isaac Lau, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+</ul>
+<p>TMED064 — <em>ALLocate: A Low-Cost Automatic Artificial Intelligence System for the Real-Time Localization and Classification of Acute Leukemia in Bone Marrow Smears</em></p>
+<ul>
+<li>Ethan Shuai Yan, Groton School, Burlingame, CA, United States of America</li>
+</ul>
+<p><strong>AAAI Student Memberships for each finalist that is part of the 1st, 2nd, and 3rd Prize Winning projects and 5 Honorable Mention winning projects (up to 3 students per project) (in-kind award / part of the 1st-3rd prize)</strong></p>
+<p>BMED023 — <em>Improving Racial Equity in Skin Cancer Detection: Using Artificial Intelligence Driven Synthetic Image Generation and Cascading Convolutional Neural Networks to Diagnose Cancer in Lesions of Varying Skin Tones</em></p>
+<ul>
+<li>Kate Choi, The Potomac School, McLean, VA, United States of America</li>
+</ul>
+<p>CBIO033 — <em>A Deep Semi-Supervised Domain Generalization Approach for Epileptic Seizure Prediction Using Electroencephalography (EEG)</em></p>
+<ul>
+<li>Sunwoo (Ria) An, Loomis Chaffee School, Windsor, CT, United States of America</li>
+</ul>
+<p>ENBM066T — <em>PoDE &#8211; A Platform Leveraging Characteristic Time Series Patterns of Oculomotor Control Attributable to Cholinergic Neuron Destruction in the Parietal Lobe, Indicating Early Alzheimer&#8217;s Disease Utilizing the PoDE Neural Network</em></p>
+<ul>
+<li>Lenny Thomas, The Prince Royal&#8217;s College, Mueang Chiang Mai, Chiang Mai, Thailand</li>
+<li>Tanyada Thongbai, The Prince Royal&#8217;s College, Hang Dong, Chiang Mai, Thailand</li>
+<li>Tin Potikanond, The Prince Royal&#8217;s College, Mueang , Chiang Mai, Thailand</li>
+</ul>
+<p>ROBO007T — <em>Advancing Pet Face Recognition: A Deep Learning Approach With a Large-Scale Dataset </em></p>
+<ul>
+<li>Hiu Yan Lin, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+<li>Nok Him Isaac Lau, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+</ul>
+<p>ROBO019T — <em>State Space Models Are All You Need</em></p>
+<ul>
+<li>Aidan Ong, Hwa Chong Institution, Singapore, Singapore</li>
+<li>Junxiang Cai, National Junior College, Singapore, Singapore, Singapore</li>
+</ul>
+<p>SOFT043 — <em>Gaze Link: A Multi-language Low-Cost Mobile Eye-Gesture Communication System With Large Language Models for People With Amyotrophic Lateral Sclerosis</em></p>
+<ul>
+<li>Xiangzhou Sun, Webb School of California, Claremont, CA, United States of America</li>
+</ul>
+<p>TMED025 — <em>Alcott: A Convolutional Neural Network to Predict Multimeric Interactions in HIV-1 Neural Infection</em></p>
+<ul>
+<li>Anna Grace Mohanty, Washington-Lee High School, Arlington, VA, United States of America</li>
+</ul>
+<p>TMED064 — <em>ALLocate: A Low-Cost Automatic Artificial Intelligence System for the Real-Time Localization and Classification of Acute Leukemia in Bone Marrow Smears</em></p>
+<ul>
+<li>Ethan Shuai Yan, Groton School, Burlingame, CA, United States of America</li>
+</ul>
+<p><strong>AAAI Membership for the School Libraries of All 8 Winners (in-kind award / part of 1st-3rd prize and honorable mentions&#8217; prize)</strong></p>
+<p>BMED023 — <em>Improving Racial Equity in Skin Cancer Detection: Using Artificial Intelligence Driven Synthetic Image Generation and Cascading Convolutional Neural Networks to Diagnose Cancer in Lesions of Varying Skin Tones</em></p>
+<ul>
+<li>Kate Choi, The Potomac School, McLean, VA, United States of America</li>
+</ul>
+<p>CBIO033 — <em>A Deep Semi-Supervised Domain Generalization Approach for Epileptic Seizure Prediction Using Electroencephalography (EEG)</em></p>
+<ul>
+<li>Sunwoo (Ria) An, Loomis Chaffee School, Windsor, CT, United States of America</li>
+</ul>
+<p>ENBM066T — <em>PoDE &#8211; A Platform Leveraging Characteristic Time Series Patterns of Oculomotor Control Attributable to Cholinergic Neuron Destruction in the Parietal Lobe, Indicating Early Alzheimer&#8217;s Disease Utilizing the PoDE Neural Network</em></p>
+<ul>
+<li>Lenny Thomas, The Prince Royal&#8217;s College, Mueang Chiang Mai, Chiang Mai, Thailand</li>
+<li>Tanyada Thongbai, The Prince Royal&#8217;s College, Hang Dong, Chiang Mai, Thailand</li>
+<li>Tin Potikanond, The Prince Royal&#8217;s College, Mueang , Chiang Mai, Thailand</li>
+</ul>
+<p>ROBO007T — <em>Advancing Pet Face Recognition: A Deep Learning Approach With a Large-Scale Dataset </em></p>
+<ul>
+<li>Hiu Yan Lin, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+<li>Nok Him Isaac Lau, Kao Yip Middle School, Macao, China, Macao Special Administrative Region</li>
+</ul>
+<p>ROBO019T — <em>State Space Models Are All You Need</em></p>
+<ul>
+<li>Aidan Ong, Hwa Chong Institution, Singapore, Singapore</li>
+<li>Junxiang Cai, National Junior College, Singapore, Singapore, Singapore</li>
+</ul>
+<p>SOFT043 — <em>Gaze Link: A Multi-language Low-Cost Mobile Eye-Gesture Communication System With Large Language Models for People With Amyotrophic Lateral Sclerosis</em></p>
+<ul>
+<li>Xiangzhou Sun, Webb School of California, Claremont, CA, United States of America</li>
+</ul>
+<p>TMED025 — <em>Alcott: A Convolutional Neural Network to Predict Multimeric Interactions in HIV-1 Neural Infection</em></p>
+<ul>
+<li>Anna Grace Mohanty, Washington-Lee High School, Arlington, VA, United States of America</li>
+</ul>
+<p>TMED064 — <em>ALLocate: A Low-Cost Automatic Artificial Intelligence System for the Real-Time Localization and Classification of Acute Leukemia in Bone Marrow Smears</em></p>
+<ul>
+<li>Ethan Shuai Yan, Groton School, Burlingame, CA, United States of America</li>
+</ul>
+<p><strong><u>China Association for Science and Technology (CAST)</u></strong></p>
+<p>China Association for Science and Technology (CAST) is the largest organization of scientists and technologists in China. One of its missions is to promote public understanding of science. Having developed science education programs, CAST supports youth and adolescents in becoming citizens with high scientific literacy. CAST awards are given to the projects that best reflect the originality and innovation of the students&#8217; work in all scientific disciplines.</p>
+<p><strong>Award of $1,200</strong></p>
+<p>BMED075 — <em>A Novel Identification of the Epigenetic Enzyme JMJD1a in Neuroinflammation</em></p>
+<ul>
+<li>Baochan Fan, Hamilton High School, Chandler, AZ, United States of America</li>
+</ul>
+<p>EAEV091 — <em>CABMS: The First System Against California Marine Biotoxins Through Deep, Spatiotemporal, Multivariate Prediction and Sensor-Based Data Transmission</em></p>
+<ul>
+<li>Yuqin Ma, The Harker School, Mountain View, CA, United States of America</li>
+</ul>
+<p>ENBM033 — <em>To Infinity Egg Beyond: Novel Systems for Hyper-Customizable Egg Models </em></p>
+<ul>
+<li>Muhammad Hosam Eldin El-Sherbiny, Bergen County Academies, Fort Lee, NJ, United States of America</li>
+</ul>
+<p>ENEV043 — <em>Developing a New Alkaline-Activated Cement Based on Carbonation Process to Reduce CO2 Emissions</em></p>
+<ul>
+<li>Fatimah Alshakhs, Alanjal Private School, Alahsa, Eastern Province, Saudi Arabia</li>
+</ul>
+<p>ETSD041 — <em>Low-Cost Rapid Response Rocket Launched UAV for Wildfire Hotspot Detection</em></p>
+<ul>
+<li>Jason Zhao, Collingwood School, West Vancouver, Canada</li>
+</ul>
+<p>MATH031 — <em>Balancing Misclassification Costs (BMC) in Imbalanced Classification</em></p>
+<ul>
+<li>Sophia Fu, Carmel High School, Carmel, IN, United States of America</li>
+</ul>
+<p>MATS037 — <em>3D Bioprinting Soft Microrobotic &#8220;Niches&#8221; for Stem Cell Delivery</em></p>
+<ul>
+<li>Cindy Cheng, Laurel Heights Secondary School, Waterloo, Ontario, Canada</li>
+</ul>
+<p>MCRO001 — <em>Next-Generation Antibiotics: Isolating and Screening Novel Bacteriocins</em></p>
+<ul>
+<li>Rishit Arnav Shaquib, Vanguard High School, Ocala, FL, United States of America</li>
+</ul>
+<p>PHYS008 — <em>Dust-Repellent and Self-Cleaning Coatings for Solar Panels on Earth, the Moon and Mars (Year Two) </em></p>
+<ul>
+<li>Arvid Charles Larsson Vaidyanathan, Winter Springs High School, Oviedo, FL, United States of America</li>
+</ul>
+<p>SOFT044 — <em>Solving Second-Order Cone Programs in Matrix Multiplication Time</em></p>
+<ul>
+<li>Michelle Wei, The Harker School, Saratoga, CA, United States of America</li>
+</ul>
+<p><strong><u>Drug, Chemical &amp; Associated Technologies Association (DCAT)</u></strong></p>
+<p>The Drug, Chemical &amp; Associated Technologies Association (DCAT) is a not-for-profit, corporate member-supported, and volunteer-led global business development association for companies engaged in the Bio/Pharmaceutical manufacturing value chain.</p>
+<p><strong>DCAT First Prize</strong></p>
+<p>BCHM008 — <em>Analysis of Novel Multi-Enzyme Formulation&#8217;s Synergistic Implications for the Enhanced Interventional Disruption of E. coli Biofilms </em></p>
+<ul>
+<li>Muhilan Balasubramanian, Ballard High School, Louisville, KY, United States of America</li>
+</ul>
+<p>BMED006 — <em>Preclinical Investigation to Develop Anti-Platelet and Cholesterol-Lowering Agent for Prevention and Treatment of Stroke</em></p>
+<ul>
+<li>Sharmada Palakurthi, W.B. Ray High School, Corpus Christi, TX, United States of America</li>
+</ul>
+<p>CELL033 — <em>Rock the Metals! Investigating Manganese as a Trigger of Malignancy and Metal Transporters as Targets in Cancer Treatment</em></p>
+<ul>
+<li>Carolina de Araujo Pereira da Silva, Instituto Federal de Educacao Ciencia e Tecnologia do Rio de Janeiro, Sao Joao de Meriti, Rio de Janeiro, Brazil</li>
+</ul>
+<p>CHEM045 — <em>Evaluation of Antimalarial Activity of Artemisinin Derivatives by the Reaction with Fe(II) Ion in Micelles</em></p>
+<ul>
+<li>Yumi Tsukai, Tokushima Municipal High School, Tokushima, Japan</li>
+</ul>
+<p>MCRO019 — <em>The Antibacterial Effect of Allium sativum on Gram-Positive and Gram-Negative Bacteria Phase II</em></p>
+<ul>
+<li>Antariksha Sharma, Maharishi School of the Age of Enlightenment, Fairfield, IA, United States of America</li>
+</ul>
+<p>MCRO038T — <em>Combating Superbugs: Using Natural Compounds as Down-Regulators of Biofilms Formation in ESKAPE Pathogens (An in silico Study)</em></p>
+<ul>
+<li>Avi Gupta, Seminole High School, Lake Mary, FL, United States of America</li>
+<li>Jai Gupta, Seminole High School, Lake Mary, FL, United States of America</li>
+</ul>
+<p>TMED062 — <em>Design, Synthesis, and Testing of Novel Small Molecule Interleukin-6 Inhibitors for the Amelioration of Inflammatory Bowel Disease</em></p>
+<ul>
+<li>Siddharth Maruvada, North Carolina School of Science and Mathematics, Apex, NC, United States of America</li>
+</ul>
+<p><strong><u>Florida Institute of Technology</u></strong></p>
+<p>Florida Institute of Technology is a nationally ranked, doctoral degree granting research university. The university offers degrees in engineering, science, computing, aeronautics, business, psychology and liberal arts. Its location just south of the Kennedy Space Center provides incredible research opportunities for students interested in engineering and science. Florida Tech will offer three presidential scholarships to ISEF participants that equal full tuition each year for four years upon fulltime enrollment at the university. Awardees must complete the FAFSA to be Eligible.</p>
+<p><strong>Full Tuition Presidential Scholarship</strong></p>
+<p>EAEV003 — <em>Tree Rings as a Potential Monitoring Tool for Saltwater Intrusion </em></p>
+<ul>
+<li>Alynza Isabella McBride, South Sumter High School, Webster, FL, United States of America</li>
+</ul>
+<p>ETSD065 — <em>Re-Shaping an Airplane&#8217;s Wings to Improve Aerodynamic Efficiency</em></p>
+<ul>
+<li>Fernando Andres Andino -Serrano, The San Juan Math, Science and Technology Center, Vega Alta, Puerto Rico</li>
+</ul>
+<p>PHYS002 — <em>Analysis of Optimal Rotor Shape: Year 3</em></p>
+<ul>
+<li>Jose M. Carvajal-Beltran, Wildwood High School, Wildwood, FL, United States of America</li>
+</ul>
+<p><strong><u>Fondazione Bruno Kessler</u></strong></p>
+<p>The Bruno Kessler Foundation (FBK) is a leading research center in Trento, Italy. WebValley is the FBK Summer School program for interdisciplinary scientific research. A team of enthusiastic and motivated high school students and FBK researchers accepts a project challenge, proposed by a visiting scientist. FBK&#8217;s Board of Directors will award several Intel ISEF finalists full fellowships to be part of the WebValley team in June.</p>
+<p><strong>Award to participate in summer school &#8220;Web Valley&#8221;</strong></p>
+<p>CBIO057 — <em>Gut Microbiome-Cardiometabolic Disease Spectrum Association Analysis Using Machine Learning</em></p>
+<ul>
+<li>Gil Ramot, Ilan Ramon, Hod HaSharon, Israel</li>
+</ul>
+<p>EAEV059 — <em>Global Pesticide Use and Parkinson&#8217;s Disease Incidence: Using Data Science to Optimize Pesticide Regulations and Linking Glyphosate Exposure to Neural Inflammation</em></p>
+<ul>
+<li>Angelina Imad Ayoubi, Somers High School, Katonah, NY, United States of America</li>
+</ul>
+<p>ENEV058 — <em>Piezocatalysis with Optimized Turbulent Flow in Hydro Turbine for Eutrophication Remediation</em></p>
+<ul>
+<li>Emily Zhao, Manhasset High School, Manhasset, NY, United States of America</li>
+</ul>
+<p>MATH012 — <em>Integration of Sequences</em></p>
+<ul>
+<li>Emma Rueter, Leibniz-Gymnasium Berlin, Berlin, Germany</li>
+</ul>
+<p>ROBO039 — <em>Scents and Sensibility: Investigating the Influence of Visual Cues on Olfactory Perception of Humans and Building an AI-based Electronic Nose to Compare the Two</em></p>
+<ul>
+<li>John Newton Anand, Anand Homeschool Academy, Akron, OH, United States of America</li>
+</ul>
+<p><strong><u>IEEE Foundation</u></strong></p>
+<p>IEEE is the world&#8217;s largest professional association dedicated to fostering technological innovation and excellence for the benefit of humanity. The IEEE Foundation supports the IEEE core purpose. IEEE awards the $10,000 Presidents&#8217; Scholarship to recognize a deserving student for an outstanding project demonstrating an understanding of electrical/electronics engineering, computer science, or other IEEE field of interest. In addition to the scholarship, IEEE awards a $600 Second Place Award and a $400 Third Place Award. This year, a $1,000 25th Anniversary award will also be presented.</p>
+<p><strong>The IEEE Foundation Presidents&#8217; Scholarship Award of $10,000</strong></p>
+<p>ETSD037 — <em>An Autonomous Unmanned Aerial Vehicle (UAV) System for Ocean Hazard Recognition and Rescue: Scout and Rescue UAVs</em></p>
+<ul>
+<li>Angelina Kim, The Bishop&#8217;s School, Del Mar, CA, United States of America</li>
+</ul>
+<p><strong>Second Place Award of $600</strong></p>
+<p>ENEV044 — <em>CarboFlux Network: Novel Sensor Node Design for Enhanced CO2 Flux Measurement and Global Ecosystem Monitoring</em></p>
+<ul>
+<li>Sahiti Bulusu, BASIS Independent Fremont , Fremont, CA, United States of America</li>
+</ul>
+<p><strong>Third Place Award of $400</strong></p>
+<p>SOFT043 — <em>Gaze Link: A Multi-language Low-Cost Mobile Eye-Gesture Communication System With Large Language Models for People With Amyotrophic Lateral Sclerosis</em></p>
+<ul>
+<li>Xiangzhou Sun, Webb School of California, Claremont, CA, United States of America</li>
+</ul>
+<p><strong>IEEE 25th Anniversary Award</strong></p>
+<p>SOFT038 — <em>AuralStudio: A Multisensory Development Environment With a Novel, Bytecode-Compiled Programming Language</em></p>
+<ul>
+<li>Abhishek Amit Shah, Green Level High School, Apex, NC, United States of America</li>
+</ul>
+<p><strong><u>International Council on Systems Engineering &#8211; INCOSE</u></strong></p>
+<p>The International Council on Systems Engineering (INCOSE) is a not-for-profit membership organization founded to develop and disseminate the interdisciplinary principles and practices that enable the realization of successful systems. The INCOSE Best Use of Systems Engineering awards are awarded to the best interdisciplinary projects that can produce technologically appropriate solutions that meet societal needs. There will be a first, second, and third place award.</p>
+<p><strong>INCOSE Bill Ewald Socio-Technical Systems Engineering Award of $1000, a 1-year free student membership to INCOSE, and free virtual admission to the 2022 International Symposium of the INCOSE</strong></p>
+<p>SOFT058 — <em>Securing Global Food: Biopolymers, Cryptography, and Visual Transformers for Affordable Anti-Counterfeit Seed Protection</em></p>
+<ul>
+<li>Diana Martynova, Los Gatos High School, Los Gatos, CA, United States of America</li>
+</ul>
+<p><strong>Second Place INCOSE Best Use of System Engineering Award of $800, a 1-year free student membership to INCOSE, and free virtual admission to the 2022 International Symposium of the INCOSE</strong></p>
+<p>ENBM065 — <em>UpLift Mobility: Robotic Lift to Elevate Frequently Falling Individuals</em></p>
+<ul>
+<li>Jeslyn Gabrielle Tan, Barker College, Sydney, Australia</li>
+</ul>
+<p><strong>INCOSE Best Use of Systems Engineering Award* of $1,500 and free registration and Exhibitor Booth at a future INCOSE Symposium</strong></p>
+<p>ENBM047 — <em>Micro RNA223-Biomarker Based Exponential Rolling Circle Amplification CRISPR -Cas12a System for Disease Detection and COPD Diagnostics </em></p>
+<ul>
+<li>Robin Chris Dao, Phillips Exeter Academy, Exeter, NH, United States of America</li>
+</ul>
+<p><strong>Certificate of Honorable Mention, a 1-year free student membership to the INCOSE, and free virtual admission to the 2022 International Symposium of the INCOSE</strong></p>
+<p>EBED040 — <em>Mitigation of Pressure Injuries Utilizing an Inertial Wearable, Computer Vision, and Machine Learning</em></p>
+<ul>
+<li>Maya Julia Trutschl, Caddo Parish Magnet High School, Shreveport, LA, United States of America</li>
+</ul>
+<p>ENBM001 — <em>Tableware Jitter Elimination Technology for Parkinson&#8217;s Patients</em></p>
+<ul>
+<li>Susie Meng Di Yuan, Dulwich College Beijing, Beijing, China</li>
+</ul>
+<p>ENBM041 — <em>NeuroHAT: Democratizing Brain-Wellness Monitoring Developing A Wearable System with fNIRs &amp; EEG Multimodality Classification Engine &amp; Miniaturized Device</em></p>
+<ul>
+<li>Jingjing Liang, The Harker School, Cupertino, CA, United States of America</li>
+</ul>
+<p>ENBM062 — <em>Orthotic Hand Brace to Improve Range of Motion in Patients With Cerebral Palsy</em></p>
+<ul>
+<li>Sophia Belle Caramanica, Massachusetts Academy of Math and Science at WPI, Shrewsbury, MA, United States of America</li>
+</ul>
+<p>ENEV077 — <em>Development of Oil Collecting Submarine Using AI and Hydro-Filter Solution</em></p>
+<ul>
+<li>Ayhem Bouker, Lycee Privee des Elites 2, Sousse , Tunisia</li>
+</ul>
+<p>ETSD050 — <em>SkyLinker: UAV Autonomous Perpetual Solar Flight for Facilitation of Mobile Communication and Long-Distance Surveillance</em></p>
+<ul>
+<li>Michael Xu, Delbarton School, Berkeley Heights, NJ, United States of America</li>
+</ul>
+<p>ROBO035 — <em>The Virtual Cardiologist: Three Deep Learning Pipelines in an Inexpensive Portable Device and Web/Mobile Application for Rapid Cardiovascular Diagnosis and Clinical Decision-Making</em></p>
+<ul>
+<li>Shiv Mehrotra-Varma, Clovis North High School, Fresno, CA, United States of America</li>
+</ul>
+<p>ROBO078 — <em>Zenith Soar X-4: Autonomous Drone for Autonomous Drone for Disaster Relief and Detection</em></p>
+<ul>
+<li>Daniel Tyreese Williams, East Coweta High School, Newnan, GA, United States of America</li>
+</ul>
+<p>SOFT035 — <em>Software for Customized Development of Partial Hand Prostheses in the 3D-Printed Prosthetics Community</em></p>
+<ul>
+<li>Katherine Cha Robertson, Sage Hill School, Irvine, CA, United States of America</li>
+</ul>
+<p>ENBM047 — <em>Micro RNA223-Biomarker Based Exponential Rolling Circle Amplification CRISPR -Cas12a System for Disease Detection and COPD Diagnostics </em></p>
+<ul>
+<li>Robin Chris Dao, Phillips Exeter Academy, Exeter, NH, United States of America</li>
+</ul>
+<p>ENBM065 — <em>UpLift Mobility: Robotic Lift to Elevate Frequently Falling Individuals</em></p>
+<ul>
+<li>Jeslyn Gabrielle Tan, Barker College, Sydney, Australia</li>
+</ul>
+<p>SOFT058 — <em>Securing Global Food: Biopolymers, Cryptography, and Visual Transformers for Affordable Anti-Counterfeit Seed Protection</em></p>
+<ul>
+<li>Diana Martynova, Los Gatos High School, Los Gatos, CA, United States of America</li>
+</ul>
+<ol>
+<li><strong><u> Soumyanath Memorial Award</u></strong></li>
+</ol>
+<p>This award is presented by the family of Krishnamurthy Soumyanath (1957 &#8211; 2010), for the best project in Computer Engineering. Dr Soumyanath was an Intel Fellow and held the title of Chief Architect, Integrated Platform Research at Intel Labs, USA. He led research and development in circuits and architectures for next-generation transceiver devices. The prize honors the memory of an energetic and adventurous individual who inspired and mentored many young people to excel in all aspects of life.</p>
+<p><strong>First Award of $3,000</strong></p>
+<p>EBED027 — <em>Detecting Forest Fires and Park Visitors in Distress Using Radio Systems</em></p>
+<ul>
+<li>John Willis Parsons, Auburn High School, Auburn, AL, United States of America</li>
+</ul>
+<p><strong>$1,000 will be awarded to the winner&#8217;s school.</strong></p>
+<p>EBED027 — <em>Detecting Forest Fires and Park Visitors in Distress Using Radio Systems</em></p>
+<ul>
+<li>John Willis Parsons, Auburn High School, Auburn, AL, United States of America</li>
+</ul>
+<p><strong><u>King Abdulaziz &amp; his Companions Foundation for Giftedness and Creativity</u></strong></p>
+<p>&#8220;Mawhiba &#8220;is a non-profit foundation in Saudi Arabia dedicated to fostering a culture of creativity, The Foundation motivates young people around the world to explore innovative methods in diverse fields of study.</p>
+<p><strong>Mawhiba Universal Enrichment Program awards (and a $200 cash prize)</strong></p>
+<p>CHEM039 — <em>External Magnetic Field Enhanced Plasmonic Au-WO3 Thin Films for Photoelectrochemical Water Splitting</em></p>
+<ul>
+<li>Saleh Abdulaziz Alangari, Riyadh School for Boys and Girls, Riyadh, Riyadh, Saudi Arabia</li>
+</ul>
+<p>EBED010T — <em>Real-Time Refractive Visual Aberration Correction Display Using Dynamic Point Spread Function-Based Deconvolution</em></p>
+<ul>
+<li>Akhilesh Balaji, Neev Academy, Bengaluru, Karnataka, India</li>
+<li>Dhruv Ramu, Neev Academy, Bangalore, Karnataka, India</li>
+</ul>
+<p>ETSD020 — <em>Origami Chair: Always Accessible to Everyone, Everywhere</em></p>
+<ul>
+<li>Chiyo Nakatsuji, Oin High School, Tokyo, Japan</li>
+</ul>
+<p>MATS033 — <em>Development of Electrolyte Additive for Self-Corrosion Control of Aluminum Air Battery Electrodes</em></p>
+<ul>
+<li>Jamal Mohammed Al Logmani, King Fahd University of Petroleum and Minerals (KFUPM) Boys High School, Dammam, Eastern Province, Saudi Arabia</li>
+</ul>
+<p>MATS036 — <em>Development of Anti-Dust Nanostructured Silicon Dioxide Coating for Solar Cells</em></p>
+<ul>
+<li>Areej Alqarni, Al-Batool International School, Mecca, Saudi Arabia</li>
+</ul>
+<p>ROBO084T — <em>Smart Power Grid Control: Artificial Intelligence-Based Fault Detection in Power Transmission Systems</em></p>
+<ul>
+<li>Khazar Huseynov, Educational Complex 132-134, Baku, Azerbaijan</li>
+<li>Nijat Taghizade, Dunya School, Baku, Azerbaijan</li>
+</ul>
+<p><strong>Full Scholarship from King Fahd University of Petroleum and Minerals(KFUPM) (and a $400 cash prize)</strong></p>
+<p>CHEM030 — <em>Next-Generation Coating: Tunable Self-Healing Material for Intelligent Protection of Metal Surfaces</em></p>
+<ul>
+<li>Shuyi Deng, YK Pao School, Shanghai, China</li>
+</ul>
+<p>CHEM054 — <em>Utilizing Polyurethane Foam and Nano-Activated Carbon-Based Composite for Sustainable Eco-Friendly Oil Spill Remediation</em></p>
+<ul>
+<li>Jumana Ahmed Ragab, Cairo Manara Language School for Girls Secondary, Nasr City, Cairo , Egypt</li>
+</ul>
+<p>CHEM061 — <em>Obtaining a Polyadsorbent From the Natural Diatomite to Purify Wastewater From the Ions of Heavy Metals</em></p>
+<ul>
+<li>Sayazhan Zhaksygaliyeva, Miras International School, Astana, Kazakhstan</li>
+</ul>
+<p>ENBM042T — <em>A Deep Learning-Base Approach for Ovarian Cancer Subtype Classification</em></p>
+<ul>
+<li>Ahmed Hanafy Abdou, Kafr EL-Sheikh STEM School, Alexandria, Egypt</li>
+<li>Ahmed Kadry Naser, Kafr EL-Sheikh STEM School, Behira , Egypt</li>
+</ul>
+<p>ETSD003 — <em>Elastic Waves: Applications of Elastic Wave Propagation in the Recovery of Depleted Oil Patches</em></p>
+<ul>
+<li>Ionut Gabriel Stan, Liceul Teoretic International de Informatica Bucuresti, Bucharest, Romania</li>
+</ul>
+<p>ETSD007T — <em>Enhancing Bobsleigh Performance Through Biomimetic Design Inspired by the Peregrine Falcon (Falco peregrinus) and Kingfisher (Alcedo atthis)</em></p>
+<ul>
+<li>Nicholas Zhang, UJ Academy Maths, Science &amp; ICT School of Specialisation, Johannesburg, Gauteng, South Africa</li>
+<li>Zaahid Sader, UJ Academy Maths, Science &amp; ICT School of Specialisation, Johannesburg, Gauteng, South Africa</li>
+</ul>
+<p>MATH023 — <em>Along the Path of the Great Kaprekar: A-Function, Repunits and Their Properties</em></p>
+<ul>
+<li>Alikhan Zharbolov, National Physics and Mathematics School, Almaty, Kazakhstan</li>
+</ul>
+<p>MATH037 — <em>Simulation of Armed Conflict Using Unmanned Aerial Vehicles (UAVs) in Ground Combat Operations</em></p>
+<ul>
+<li>Volodymyr Borysenko , Cherkassy School Number 28, Town, Cherkasy, Ukraine</li>
+</ul>
+<p>MATS001 — <em>A Self-Healing Flexible &#8220;Jelly-like&#8221; Zinc-Ion Battery: Empowering Wearable Devices and Safe Energy Storage</em></p>
+<ul>
+<li>Jonathan Xufeng Hu, Shanghai High School International Division, Shanghai, China</li>
+</ul>
+<p>ROBO011 — <em>Effective Robotic Swarm Controller Applied to Autonomous Swarm Assembly of Modular Flexible Production Lines</em></p>
+<ul>
+<li>Michal Lajciak, Stredna Priemyselna Skola, Trencin, Slovakia</li>
+</ul>
+<p>ROBO077 — <em>Renovation of Olive Cultivation Sector Using AI</em></p>
+<ul>
+<li>Ala Bouhaouel, Lycée 2 Mars 1934, Moknine, Tunisia</li>
+</ul>
+<p>SOFT037 — <em>Automating Quantum Efficiency: An Algorithm for Gate-Based Optimization of Quantum Circuits</em></p>
+<ul>
+<li>Abilmansur Rakhmettulayev, Haileybury Astana School, Astana, Kazakhstan</li>
+</ul>
+<p>CHEM039 — <em>External Magnetic Field Enhanced Plasmonic Au-WO3 Thin Films for Photoelectrochemical Water Splitting</em></p>
+<ul>
+<li>Saleh Abdulaziz Alangari, Riyadh School for Boys and Girls, Riyadh, Riyadh, Saudi Arabia</li>
+</ul>
+<p>EBED010T — <em>Real-Time Refractive Visual Aberration Correction Display Using Dynamic Point Spread Function-Based Deconvolution</em></p>
+<ul>
+<li>Akhilesh Balaji, Neev Academy, Bengaluru, Karnataka, India</li>
+<li>Dhruv Ramu, Neev Academy, Bangalore, Karnataka, India</li>
+</ul>
+<p>ETSD020 — <em>Origami Chair: Always Accessible to Everyone, Everywhere</em></p>
+<ul>
+<li>Chiyo Nakatsuji, Oin High School, Tokyo, Japan</li>
+</ul>
+<p>MATS033 — <em>Development of Electrolyte Additive for Self-Corrosion Control of Aluminum Air Battery Electrodes</em></p>
+<ul>
+<li>Jamal Mohammed Al Logmani, King Fahd University of Petroleum and Minerals (KFUPM) Boys High School, Dammam, Eastern Province, Saudi Arabia</li>
+</ul>
+<p>MATS036 — <em>Development of Anti-Dust Nanostructured Silicon Dioxide Coating for Solar Cells</em></p>
+<ul>
+<li>Areej Alqarni, Al-Batool International School, Mecca, Saudi Arabia</li>
+</ul>
+<p>ROBO084T — <em>Smart Power Grid Control: Artificial Intelligence-Based Fault Detection in Power Transmission Systems</em></p>
+<ul>
+<li>Khazar Huseynov, Educational Complex 132-134, Baku, Azerbaijan</li>
+<li>Nijat Taghizade, Dunya School, Baku, Azerbaijan</li>
+</ul>
+<p>CHEM030 — <em>Next-Generation Coating: Tunable Self-Healing Material for Intelligent Protection of Metal Surfaces</em></p>
+<ul>
+<li>Shuyi Deng, YK Pao School, Shanghai, China</li>
+</ul>
+<p>CHEM054 — <em>Utilizing Polyurethane Foam and Nano-Activated Carbon-Based Composite for Sustainable Eco-Friendly Oil Spill Remediation</em></p>
+<ul>
+<li>Jumana Ahmed Ragab, Cairo Manara Language School for Girls Secondary, Nasr City, Cairo , Egypt</li>
+</ul>
+<p>CHEM061 — <em>Obtaining a Polyadsorbent From the Natural Diatomite to Purify Wastewater From the Ions of Heavy Metals</em></p>
+<ul>
+<li>Sayazhan Zhaksygaliyeva, Miras International School, Astana, Kazakhstan</li>
+</ul>
+<p>ENBM042T — <em>A Deep Learning-Base Approach for Ovarian Cancer Subtype Classification</em></p>
+<ul>
+<li>Ahmed Hanafy Abdou, Kafr EL-Sheikh STEM School, Alexandria, Egypt</li>
+<li>Ahmed Kadry Naser, Kafr EL-Sheikh STEM School, Behira , Egypt</li>
+</ul>
+<p>ETSD003 — <em>Elastic Waves: Applications of Elastic Wave Propagation in the Recovery of Depleted Oil Patches</em></p>
+<ul>
+<li>Ionut Gabriel Stan, Liceul Teoretic International de Informatica Bucuresti, Bucharest, Romania</li>
+</ul>
+<p>ETSD007T — <em>Enhancing Bobsleigh Performance Through Biomimetic Design Inspired by the Peregrine Falcon (Falco peregrinus) and Kingfisher (Alcedo atthis)</em></p>
+<ul>
+<li>Nicholas Zhang, UJ Academy Maths, Science &amp; ICT School of Specialisation, Johannesburg, Gauteng, South Africa</li>
+<li>Zaahid Sader, UJ Academy Maths, Science &amp; ICT School of Specialisation, Johannesburg, Gauteng, South Africa</li>
+</ul>
+<p>MATH023 — <em>Along the Path of the Great Kaprekar: A-Function, Repunits and Their Properties</em></p>
+<ul>
+<li>Alikhan Zharbolov, National Physics and Mathematics School, Almaty, Kazakhstan</li>
+</ul>
+<p>MATH037 — <em>Simulation of Armed Conflict Using Unmanned Aerial Vehicles (UAVs) in Ground Combat Operations</em></p>
+<ul>
+<li>Volodymyr Borysenko , Cherkassy School Number 28, Town, Cherkasy, Ukraine</li>
+</ul>
+<p>MATS001 — <em>A Self-Healing Flexible &#8220;Jelly-like&#8221; Zinc-Ion Battery: Empowering Wearable Devices and Safe Energy Storage</em></p>
+<ul>
+<li>Jonathan Xufeng Hu, Shanghai High School International Division, Shanghai, China</li>
+</ul>
+<p>ROBO011 — <em>Effective Robotic Swarm Controller Applied to Autonomous Swarm Assembly of Modular Flexible Production Lines</em></p>
+<ul>
+<li>Michal Lajciak, Stredna Priemyselna Skola, Trencin, Slovakia</li>
+</ul>
+<p>ROBO077 — <em>Renovation of Olive Cultivation Sector Using AI</em></p>
+<ul>
+<li>Ala Bouhaouel, Lycée 2 Mars 1934, Moknine, Tunisia</li>
+</ul>
+<p>SOFT037 — <em>Automating Quantum Efficiency: An Algorithm for Gate-Based Optimization of Quantum Circuits</em></p>
+<ul>
+<li>Abilmansur Rakhmettulayev, Haileybury Astana School, Astana, Kazakhstan</li>
+</ul>
+<p><strong><u>London International Youth Science Forum CIC</u></strong></p>
+<p>Founded in 1959, LIYSF offers a two-week science summer program. Each year 500 students aged 16-21 years old from 70 countries attend, with lecture demonstrations from leading scientists, including Nobel prize winners, scientific visits to world-class laboratories and science universities combined with international cultural interaction. A vital part of the experience of attending LIYSF is creating global citizens through the exchange of different cultures and traditions, and for many students visiting LIYSF offers their first opportunity to travel abroad.</p>
+<p><strong>Full scholarship to attend the London International Youth Science Forum, and a $1,500 cash stipend for travel expenses. </strong></p>
+<p>MCRO001 — <em>Next-Generation Antibiotics: Isolating and Screening Novel Bacteriocins</em></p>
+<ul>
+<li>Rishit Arnav Shaquib, Vanguard High School, Ocala, FL, United States of America</li>
+</ul>
+<p><strong>Cash stipend for travel expenses associated with travel to and from LIYSF 2024</strong></p>
+<p>MCRO001 — <em>Next-Generation Antibiotics: Isolating and Screening Novel Bacteriocins</em></p>
+<ul>
+<li>Rishit Arnav Shaquib, Vanguard High School, Ocala, FL, United States of America</li>
+</ul>
+<p><strong><u>Long Island University</u></strong></p>
+<p>Long Island University, with two campuses in Brooklyn and Brookville, NY, is in the top 7% of universities with high research activity nationally recognized by the Carnegie Classification. Dassault Systemes designated LIU as the world’s first Center of Excellence in Life Sciences &amp; Research with high societal impact in the fields of precision medicine, pharmaceutical sciences and health care in the digital age. LIU offers majors like Pharmacy, Health Sciences, Veterinary Technology, Biomedical Science, Health Care Administration, Nursing, and more. For more information, visit liu.edu.</p>
+<p><strong>Presidential Scholarships</strong></p>
+<p>ANIM008 — <em>Why Is the Mare Acting Like a Stallion?: Novel Test to Diagnose Granulosa Cell Tumor </em></p>
+<ul>
+<li>Melina Esha Kumar, Clear Lake High School, Houston, TX, United States of America</li>
+</ul>
+<p>BEHA061 — <em>GaitNet: A Medically Interpretable Video-Based System for Assessing Parkinsonian Gait Impairment Severity Using 2-Stream Spatiotemporal Neural Network</em></p>
+<ul>
+<li>Andrew Y. Liang, The Harker School, San Jose, CA, United States of America</li>
+</ul>
+<p>CBIO025 — <em>A Novel Machine Learning Model for Estrous Cycle Classification</em></p>
+<ul>
+<li>Saachi Goyal, Academy of Information Technology and Engineering, Stamford, CT, United States of America</li>
+</ul>
+<p>EAEV023 — <em>Sponge Studies: Assessing the Effects of Environmental Impacts on Marine Sponge Detritus Production, and Use as a Natural Deep Sea eDNA Sampler </em></p>
+<ul>
+<li>Kian Kenneth Francisco Sanchez, University Laboratory School, Honolulu, HI, United States of America</li>
+</ul>
+<p>ENBM083 — <em>BrainStorm: Reconstructing Natural Vision from fMRI Using Generative Models for Communication and Covert Awareness in Neurological States</em></p>
+<ul>
+<li>Yashvir Sabharwal , Battlefield High School, Bristow, VA, United States of America</li>
+</ul>
+<p>ENEV035 — <em>The Homemade Integration of Biodegradable Materials Into Hydroponics: Using Sawdust and Tannins to Detoxify Greywater</em></p>
+<ul>
+<li>Ian James Lentz, Camp Hill High School, Camp Hill, PA, United States of America</li>
+</ul>
+<p>PLNT020 — <em>Mars or Bust! A Method to Build a Martian Regolith-Based Substrate for Sustainable Agriculture on Mars</em></p>
+<ul>
+<li>Quinn Jacie Hughes, Minnetonka High School, Mound, MN, United States of America</li>
+</ul>
+<p>PLNT031 — <em>Aqua-Arsenic Remediation: Analysis of the Oryza sativa metagenome and Wet-Lab Approach to increase O. sativa Tolerance to Drought and Arsenic Through Hyper Expression of Aquaporin OsNIP2;1, OsNIP3;2, OsPIP2;2 genes (Year IV)</em></p>
+<ul>
+<li>Prisha Bhat, Plano East Senior High School, Richardson, TX, United States of America</li>
+</ul>
+<p>ROBO046 — <em>Home Occupancy Simulation Using Machine Learning</em></p>
+<ul>
+<li>Humam Al-Shami, Arkansas Connections Academy, Magnolia, AR, United States of America</li>
+</ul>
+<p>TMED042 — <em>An Investigation of the Combination of Y15 and Metformin for the Treatment of Platinum-Resistant Ovarian Cancer</em></p>
+<ul>
+<li>Isabela Lucero Mendez, Brownsville Early College High School, Brownsville, TX, United States of America</li>
+</ul>
+<p><strong><u>Mary Kay Inc.</u></strong></p>
+<p>Mary Kay Ash founded her dream beauty brand with one goal: to enrich women’s lives. That dream blossomed into a global company with millions of independent sales force members in more than 35 countries. Mary Kay is dedicated to investing in the science behind beauty and manufacturing cutting-edge skincare, color cosmetics, nutritional supplements, and fragrances. Mary Kay believes in preserving our planet for future generations, protecting women impacted by cancer and domestic abuse, and encouraging youth to follow their dreams.</p>
+<p><strong>First Prize</strong></p>
+<p>TMED030T — <em>IdentiCan: The App That Detects Brain, Breast, Lung, Skin, and Pancreatic Cancer</em></p>
+<ul>
+<li>Keshvee Sekhda, North Gwinnett High School, Sugar Hill, GA, United States of America</li>
+<li>Nyambura Sallinen, Lanier High School, Sugar Hill, GA, United States of America</li>
+</ul>
+<p><strong>Second Prize</strong></p>
+<p>CHEM017T — <em>HidroQapa: Waterproof Bioplastic Made From Chitosan Extracted From Shrimp Shell Waste</em></p>
+<ul>
+<li>Frederico Reis Mauritty, Colegio Valsassina, Lisboa, Portugal</li>
+<li>Madalena de Castro Filipe, Colegio Valsassina, Lisboa, Portugal</li>
+</ul>
+<p><strong>Third Prize</strong></p>
+<p>CELL033 — <em>Rock the Metals! Investigating Manganese as a Trigger of Malignancy and Metal Transporters as Targets in Cancer Treatment</em></p>
+<ul>
+<li>Carolina de Araujo Pereira da Silva, Instituto Federal de Educacao Ciencia e Tecnologia do Rio de Janeiro, Sao Joao de Meriti, Rio de Janeiro, Brazil</li>
+</ul>
+<p><strong><u>Missouri University of Science and Technology</u></strong></p>
+<p>Missouri University of Science and Technology (Missouri S&amp;T) is a STEM-focused research university of over 7,200 students. Located in Rolla, MO, S&amp;T offers 101 degrees in 40 areas of study and is among the nation&#8217;s top universities for return on investment. Missouri S&amp;T is proud to offer these awards to ISEF participants: * THREE $8,000 scholarships over the course of four years for first-year (freshmen) students choosing to attend Missouri S&amp;T. * FIVE Missouri S&amp;T summer camp scholarship up to $1,500 to be used towards the camp and travel expenses</p>
+<p><strong>Summer Camp scholarships (camp tuition and travel expenses, valued at up to $1,500)</strong></p>
+<p>BMED082 — <em>Obesity and Fresh Food Access: New Evidence and Solutions From Geospatial Data</em></p>
+<ul>
+<li>Saswat Sasha Tripathi, Parkway West High School, Chesterfield, MO, United States of America</li>
+</ul>
+<p>EGSD048 — <em>Renewable Energy Using Peltier Tiles </em></p>
+<ul>
+<li>Jessica Haley Castro, Saint Pius X High School, Albuquerque, NM, United States of America</li>
+</ul>
+<p>ETSD066 — <em>I.D.A.S &#8211; Interlocking Drone Aerial Swarm: Enhancing Thrust and Battery Configuration Flexibility</em></p>
+<ul>
+<li>Yuvan Senthil, BASIS Peoria, Phoenix, AZ, United States of America</li>
+</ul>
+<p>TMED028T — <em>Revolutionizing Non-Invasive Skin Cancer Detection Through a Novel Vision Transformer Application</em></p>
+<ul>
+<li>Aryaman Om Mishra, Kalamazoo Area Mathematics and Science Center, Portage, MI, United States of America</li>
+<li>Jason Shaye, Kalamazoo Area Mathematics and Science Center, Kalamazoo, MI, United States of America</li>
+</ul>
+<p><strong>$2,000 tuition scholarship (renewable for up to 4 years)</strong></p>
+<p>EGSD020 — <em>Efficiency of a 3D-Printed Pico-Hydroelectric Generation System Using a Fused Deposition Modeling Printer</em></p>
+<ul>
+<li>Simon David Wibbenmeyer, Perryville Senior High School, Perryville, MO, United States of America</li>
+</ul>
+<p>EGSD041 — <em>Exploring the Use of Leaf Biomimicry and Electromagnetic Induction for Electricity Production</em></p>
+<ul>
+<li>Grace Echevarria Rivera, Escuela Bilingue Especializada en Ciencias y Matematicas Papa Juan XXIII Secundaria, Bayamon, Puerto Rico</li>
+</ul>
+<p>ROBO066 — <em>Optimizing Lip Reading Using Convoluted Neural Networks</em></p>
+<ul>
+<li>Daniel Nkunga, Arkansas School for Mathematics, Sciences and the Arts, Sherwood, AR, United States of America</li>
+</ul>
+<p><strong><u>Mu Alpha Theta, National High School and Two-Year College Mathematics Honor Society</u></strong></p>
+<p>Mu Alpha Theta, the National High School and Two-Year College Mathematics Honor Society, strives to promote the enjoyment and scholarship of mathematics. The Mu Alpha Theta Award is given to the most challenging, thorough, and creative investigation of a problem involving mathematics accessible to high school students. Components of the investigation often include mathematical proof, mathematical modeling, statistical analysis, visualization, simulation, and approximation.</p>
+<p><strong>First Award of $ 1,500</strong></p>
+<p>MATH008 — <em>Injective Chromatic Index of Packet Radio Networks: Improved Upper Bounds </em></p>
+<ul>
+<li>Austin Luo, Morgantown High School, Morgantown, WV, United States of America</li>
+</ul>
+<p>MATH012 — <em>Integration of Sequences</em></p>
+<ul>
+<li>Emma Rueter, Leibniz-Gymnasium Berlin, Berlin, Germany</li>
+</ul>
+<p><strong>Second Award of $1,000</strong></p>
+<p>MATH006 — <em>Euler-phi Partitions, p-Euler-phi Partitions, Inverse-p-Euler-phi Partitions and Their Generating Functions</em></p>
+<ul>
+<li>Arda Ozcelebi, Izmir Ozel Ege Lisesi, Izmir, Turkey</li>
+</ul>
+<p>MATH018 — <em>On an Approximation of Divisor Sum Functions With Bernoulli Polynomials and the Hardy Littlewood Function</em></p>
+<ul>
+<li>Quang Tran, Patrick F. Taylor Science &amp; Technology Academy, Harvey, LA, United States of America</li>
+</ul>
+<p>MATH022 — <em>Factorization Properties of Puiseux Monoids</em></p>
+<ul>
+<li>Jason Mao, The Academy for Mathematics, Science &amp; Engineering, Towaco, NJ, United States of America</li>
+</ul>
+<p><strong><u>NASA</u></strong></p>
+<p>The National Aeronautics and Space Administration (NASA) is the United States government agency responsible for the nation&#8217;s civilian space program and for aeronautics and aerospace research. Founded in 1958, NASA drives advances in science, technology, aeronautics, and space exploration to enhance knowledge, education, innovation, economic vitality, and stewardship of Earth. NASA inspires the world through discovery.</p>
+<p><strong>1st Prize</strong></p>
+<p>TMED035 — <em>Photobiomodulation on In Vivo and In Vitro Wound Models Under Simulated Microgravity for Future Space Travel</em></p>
+<ul>
+<li>Leanne Fan, Westview High School, San Diego, CA, United States of America</li>
+</ul>
+<p><strong>2nd Prize</strong></p>
+<p>PHYS031 — <em>A Novel System for Long-Range Wireless Power Transmission</em></p>
+<ul>
+<li>Anish Anand, Palos Verdes Peninsula High School, Ranch Palos Verdes, CA, United States of America</li>
+</ul>
+<p><strong>3rd Prize</strong></p>
+<p>ETSD008 — <em>Modelling Lunar Drivetrain Technology Through the Design of a Differential Swerve Drive</em></p>
+<ul>
+<li>Sumana Subramanian, Clear Brook High School, Houston, TX, United States of America</li>
+</ul>
+<p>PHYS056 — <em>Discovery of New Extragalactic Planet Candidates: A Novel End-to-End Machine Learning Pipeline for Efficient Transit Detection in the X-ray Spectrum</em></p>
+<ul>
+<li>Emily Nicole Aleman, Centro Residencial de Oportunidades Educativas de Ceiba, Río Grande, Puerto Rico</li>
+</ul>
+<p><strong><u>National Anti-Vivisection Society</u></strong></p>
+<p>Since 1929, the National Anti-Vivisection Society has promoted greater compassion, respect and justice for animals. NAVS educational and advocacy programs advance better, more humane science; support the development of alternatives to the use of animals in research, testing and education; and effect changes which help to end the unnecessary suffering of animals.</p>
+<p><strong>Awards of $3,000</strong></p>
+<p>ANIM049 — <em>DOGMA (Dogs&#8217; Oncological Genomic Metabolite Analyzer): Diagnosis of CMTs in Dogs Using a Machine Learning Model</em></p>
+<ul>
+<li>Asher Wang, Holicong Middle School, Jamison, PA, United States of America</li>
+</ul>
+<p>BCHM034 — <em>Novel Complementary and Alternative Medicines to Mollify Long COVID and Post-COVID Conditions Studied Using Controlled Environment Agriculture</em></p>
+<ul>
+<li>Rohan Prakash Bhosale, Carmel High School, Carmel, IN, United States of America</li>
+</ul>
+<p>ENBM025 — <em>Developing Optimal Fused Deposition Modeling Surfaces for Cell Growth in Lab-On-A-Chip Applications</em></p>
+<ul>
+<li>Suraj Dixit, Kalamazoo Area Mathematics and Science Center, Kalamazoo, MI, United States of America</li>
+</ul>
+<p>ROBO059 — <em>Democratizing Multi-Species Object Detection in Drone Imagery for Cost-Effective Population Monitoring of Endangered Animals </em></p>
+<ul>
+<li>Sowmya Sankaran, Albuquerque Academy, Albuquerque, NM, United States of America</li>
+</ul>
+<p>TMED014 — <em>Wound Simulator: An in vitro Study of a Novel Biological Growth Factor Concentrate on Oral Mucositis</em></p>
+<ul>
+<li>Keerthana Rajesh, Greenwood High International School Bangalore, Bangalore , Karnataka, India</li>
+</ul>
+<p><strong><u>National Geographic Society</u></strong></p>
+<p>The National Geographic Society is a global nonprofit organization that uses the power of science, exploration, education, and storytelling to illuminate and protect the wonder of our world. Since 1888, National Geographic has pushed the boundaries of exploration, investing in bold people and transformative ideas. The National Geographic Society is presenting special awards to Regeneron ISEF participants whose projects display excellence in Geography and Geospatial Science.</p>
+<p><strong>Excellence in Geography and Geospatial Science Award</strong></p>
+<p>EAEV021 — <em>National Ground-Level NO2 Predictions via Satellite Imagery Driven Hybrid Neural Networks</em></p>
+<ul>
+<li>Elton Cao, Fairview High School, Broomfield, CO, United States of America</li>
+</ul>
+<p>EAEV033 — <em>Global Soil Respiration Insights Through Machine Learning: Projections and Future Climate Change Implications</em></p>
+<ul>
+<li>Manfred Lim, Jericho High School, Jericho, NY, United States of America</li>
+</ul>
+<p>EAEV058 — <em>Forecasting Post-Wildfire Vegetation Recovery in California Using a Convolutional Long Short-Term Memory Tensor Regression Network</em></p>
+<ul>
+<li>Jiahe Liu, Edgemont High School, Scarsdale, NY, United States of America</li>
+</ul>
+<p>EAEV079 — <em>Flood Mitigation of Tarlac City Through 3D Simulation of Groundwater Discharge to Flood Inundation Using Rainfall Prediction and Integration of Spatio-Temporal GIS in Hydrodynamic Models</em></p>
+<ul>
+<li>Arnon Yzabel Guzman Guinto, Tarlac National High School, Tarlac City, Tarlac, Philippines</li>
+</ul>
+<p>ROBO043 — <em>Urban Slum Detection and Mapping: Semantic Segmentation on VHR Satellite Imagery</em></p>
+<ul>
+<li>Meenakshi Nair, Mission San Jose High School, Fremont, CA, United States of America</li>
+</ul>
+<p><strong><u>National Oceanic and Atmospheric Administration &#8211; NOAA</u></strong></p>
+<p>The National Oceanic and Atmospheric Administration (NOAA) is a United States government science agency with a mission of science, service, and stewardship. NOAA enriches life through science, with a reach that goes from the surface of the sun to the depths of the ocean floor. They work to keep the public informed of the changing environment around them, protect life and property, and conserve and protect natural resources. NOAA&#8217;s Special Awards recognize outstanding projects in ocean, coastal, Great Lakes, weather, and climate sciences with cash awards.</p>
+<p><strong>Judges&#8217; Award</strong></p>
+<p>EAEV093T — <em>Algae as a Resource for Bioplastic Production: Evaluating Species-Specific Characteristics and Biodegradability of Closterium, Chlorella, Scenedesmus, Volvox, Spirogyra, Saccharina latissima and Alaria esculenta</em></p>
+<ul>
+<li>Joseph Jeong, Forest Hills High School, Queens , NY, United States of America</li>
+<li>Madison Janice Bennett, Forest Hills High School, East Elmhurst , NY, United States of America</li>
+<li>Pretom Chowdhury, Forest Hills High School, NYC, NY, United States of America</li>
+</ul>
+<p>ENEV066 — <em>Microplastic Flotation: A Novel Method to Analyze and Remove Microplastics</em></p>
+<ul>
+<li>Elizabeth Rose Barnes, Shawnee Mission West High School, Shawnee, KS, United States of America</li>
+</ul>
+<p><strong>Science Communication Award</strong></p>
+<p>EAEV050 — <em>A Novel Approach for Tropical Cyclone Track Forecast Across the Atlantic Basin</em></p>
+<ul>
+<li>Nikita Agrawal, Whitney M. Young Magnet High School, Chicago, IL, United States of America</li>
+</ul>
+<p><strong>Taking the Pulse of the Planet First Award </strong></p>
+<p>EAEV062T — <em>Acoustic Filtration: Harnessing Ultrasonic Technology for the Streamlined Removal of Microplastic Particles From Water Flow</em></p>
+<ul>
+<li>Justin Yizhou Huang, College Park High School, The Woodlands, TX, United States of America</li>
+<li>Victoria Ou, College Park High School, The Woodlands, TX, United States of America</li>
+</ul>
+<p>ENEV080 — <em>Year II: Resistant Electromagnet Propulsion for Petroleum Removal Employing Biocompatible Magnetorheological Fluid in Oil Spill Applications</em></p>
+<ul>
+<li>Tiffani Rai Gay, Orlando Science Schools, Apopka, FL, United States of America</li>
+</ul>
+<p><strong><u>National Security Agency Research Directorate </u></strong></p>
+<p>The NSA Research Directorate is one of the most established research organizations in the U.S. Intelligence Community. As a world leader in science and technology, Research engages with leading industries, universities, and national laboratories to both advance core competencies and to leverage work in overlapping disciplines. The ISEF Special Awards recognize exceptional research that demonstrates world-class skills in mathematics, computer science, cybersecurity, engineering, physics, and neuroscience while promoting research that can assure and protect cyberspace.</p>
+<p><strong>Third Place Award Mathematics </strong></p>
+<p>MATH016 — <em>Fibonacci Analogues of Legendre&#8217;s Formula and Fine&#8217;s Theorem</em></p>
+<ul>
+<li>Arav Chand, Half Hollow Hills High School West, Dix Hills, NY, United States of America</li>
+</ul>
+<p><strong>Second Place Award Mathematics</strong></p>
+<p>MATH014 — <em>Twisted Homogeneous Racks Over the Alternating Groups</em></p>
+<ul>
+<li>Joseph Amichai Vulakh, Paul Laurence Dunbar High School, Lexington, KY, United States of America</li>
+</ul>
+<p><strong>First Place Award Mathematics</strong></p>
+<p>MATH030T — <em>An Elementary Method for Fast Modular Exponentiation With Factored Modulus</em></p>
+<ul>
+<li>Anay Aggarwal, Jesuit High School, Portland, OR, United States of America</li>
+<li>Manu Isaacs, Jesuit High School, Portland, OR, United States of America</li>
+</ul>
+<p><strong>Third Place Award Cybersecurity</strong></p>
+<p>ROBO019T — <em>State Space Models Are All You Need</em></p>
+<ul>
+<li>Aidan Ong, Hwa Chong Institution, Singapore, Singapore</li>
+<li>Junxiang Cai, National Junior College, Singapore, Singapore, Singapore</li>
+</ul>
+<p>SOFT036 — <em>Unmasking Cybersecurity Vulnerabilities in Direct and Transitive OSS Dependencies</em></p>
+<ul>
+<li>Sebastian Rae Alexis, Northwood High School, Irvine, CA, United States of America</li>
+</ul>
+<p>SOFT040 — <em>A Novel Approach to Detecting Academic Dishonesty Involving Artificial Intelligence</em></p>
+<ul>
+<li>Jun Jang, Oxford High School, Oxford, MS, United States of America</li>
+</ul>
+<p>SOFT046T — <em>DynaGrad: A Novel Gradient Descent With Adaptive Dual Learning Rates &amp; Momenta for Improved Optimization and Accelerated Convergence in Deep Neural Networks</em></p>
+<ul>
+<li>Pratishrut Kamal, William G. Enloe High School, Raleigh, NC, United States of America</li>
+<li>Venkata Varshith Vadlamudi, William G. Enloe High School, Apex, NC, United States of America</li>
+</ul>
+<p><strong>Second Place Award Cybersecurity</strong></p>
+<p>SOFT024 — <em>Engineering a WebAssembly-Based Shell</em></p>
+<ul>
+<li>Diego Zhen-Yi Frias, Oregon Episcopal School, Portland, OR, United States of America</li>
+</ul>
+<p>SOFT033 — <em>Improving the Ransomware Detection/Mitigation Proof-of-Concept With Machine Learning</em></p>
+<ul>
+<li>Eric Ruike Song, Yorktown High School, Yorktown Heights, NY, United States of America</li>
+</ul>
+<p><strong>First Place Award Cybersecurity</strong></p>
+<p>ROBO057 — <em>AdvMed: Detecting Adversarial Attacks in Medical Deep Learning Systems</em></p>
+<ul>
+<li>Ayushi Mehrotra, Troy High School, Irvine, CA, United States of America</li>
+</ul>
+<p><strong>Third Place Award Principles of Security and Privacy</strong></p>
+<p>BEHA015 — <em>Differential Empathy, Social Dominance Orientation, and the Limitations of Social Science Research</em></p>
+<ul>
+<li>Sierra Anne Sun, The Waterford School, Sandy, UT, United States of America</li>
+</ul>
+<p><strong>Second Place Award Principles of Security and Privacy</strong></p>
+<p>EBED003 — <em>Terahertz Gap Communication Using Black Body Radiation</em></p>
+<ul>
+<li>Jonathan Luke Dorminy, Sola Fide Home School, McDonough, GA, United States of America</li>
+</ul>
+<p><strong>First Place Award Principles of Security and Privacy</strong></p>
+<p>SOFT044 — <em>Solving Second-Order Cone Programs in Matrix Multiplication Time</em></p>
+<ul>
+<li>Michelle Wei, The Harker School, Saratoga, CA, United States of America</li>
+</ul>
+<p><strong>First Place Award Material Science </strong></p>
+<p>MATS030T — <em>Engineering a Greener Future: A Novel, Biodegradable, Self-Powered, Chitosan-Based Food Packaging Material</em></p>
+<ul>
+<li>Grace Yuan, College Park High School, Spring, TX, United States of America</li>
+<li>Nikita Catherine D&#8217;Souza, College Park High School, The Woodlands, TX, United States of America</li>
+</ul>
+<p><strong><u>National Taiwan Science Education Center</u></strong></p>
+<p>National Taiwan Science Education Center (NTSEC) is a national organization and science center aiming at promoting science education in Taiwan. NTSEC holds Taiwan International Science Fair (TISF) every year to encourage Taiwanese students as well as international participants with excellent performance in science research to showcase their work. Taiwan International Science Fair Special Award recognizes projects with the best creativity and scientific applications and offers opportunities to participate in TISF.</p>
+<p>ANIM042 — <em>BeeMind AI: Development of an AI-Based System to Assess Honeybee Health, Behavior, and Nutrient Effects on Learning and Memory</em></p>
+<ul>
+<li>Matthew Allen Lo, The Haverford School, Berwyn, PA, United States of America</li>
+</ul>
+<p>BCHM013 — <em>Characterization of Antimicrobials From the Soil Bacterium Xenorhabdus szentirmaii</em></p>
+<ul>
+<li>Ritisha Dey, Shorewood High School, Shorewood, WI, United States of America</li>
+</ul>
+<p><strong><u>NC State College of Engineering</u></strong></p>
+<p>NC State is home to one of the world’s finest colleges of engineering and computer science. NC State Engineering integrates classroom learning, research, and hands-on experience, and our graduates emerge with the skills they need to succeed. Award winners will take part in a week-long summer camp, completing hands-on engineering challenges, exploring solutions, and sharing achievements along with other aspiring engineers.</p>
+<p>ANIM042 — <em>BeeMind AI: Development of an AI-Based System to Assess Honeybee Health, Behavior, and Nutrient Effects on Learning and Memory</em></p>
+<ul>
+<li>Matthew Allen Lo, The Haverford School, Berwyn, PA, United States of America</li>
+</ul>
+<p>BCHM036 — <em>On the Synthesis of Hydroxyapatite Nanoparticles From Eggshells via the Sol-Gel Method</em></p>
+<ul>
+<li>Viraj Luthra, Chantilly High School, Chantilly, VA, United States of America</li>
+</ul>
+<p>BMED019 — <em>Accelerating Breast Cancer Diagnoses: Leveraging Machine Learning to Accurately Predict Breast Cancer Presence and Growth With Hormonal Data</em></p>
+<ul>
+<li>Joshua Hyungwan Kim, McCallie School, Chattanooga, TN, United States of America</li>
+</ul>
+<p>CBIO011 — <em>Utilizing Deep Learning to Facilitate Diagnosis of Look-Alike Leukemia Subtypes</em></p>
+<ul>
+<li>Tessla Chan, Roslyn High School, Roslyn, NY, United States of America</li>
+</ul>
+<p>ENBM076 — <em>Utilizing 3D Additive Biomanufacturing To Develop a Biocompatible, Customizable and Durable Mechanical Aortic Valve – Year 2</em></p>
+<ul>
+<li>Aadi Nishant Bhensdadia, Pine View School, Sarasota, FL, United States of America</li>
+</ul>
+<p>ENEV079 — <em>Democratizing Desalination: Study of Materials and Methods To Make Desalination Less Energy Intensive and Affordable</em></p>
+<ul>
+<li>Ahil Thendral, Northwest High School, Germantown, MD, United States of America</li>
+</ul>
+<p>MATH036 — <em>Data-Driven Predictive Mathematical Model of Fish Population Dynamics</em></p>
+<ul>
+<li>Eleanor Kathleen Rossi, Jamestown High School, Williamsburg, VA, United States of America</li>
+</ul>
+<p>MCRO006 — <em>Year 2: A Novel Biodegradable Sorbent for Oil Spills</em></p>
+<ul>
+<li>Mahie Mangesh Patil, Orlando Science Schools, Winter Garden, FL, United States of America</li>
+</ul>
+<p><strong>Alternates</strong></p>
+<p>ANIM049 — <em>DOGMA (Dogs&#8217; Oncological Genomic Metabolite Analyzer): Diagnosis of CMTs in Dogs Using a Machine Learning Model</em></p>
+<ul>
+<li>Asher Wang, Holicong Middle School, Jamison, PA, United States of America</li>
+</ul>
+<p>BMED003 — <em>E-cadherin Expression as a Predictor of Epithelial to Mesenchymal Transition in Early Onset Colorectal Cancer</em></p>
+<ul>
+<li>Anika Bhandare, Sebring High School, Sebring, FL, United States of America</li>
+</ul>
+<p>EBED025 — <em>Omni Wheel: An Innovative Wheel Design for a Walker With Pressure Tracking, Lidar Sensing and Braking Capability</em></p>
+<ul>
+<li>Annika Chadha, duPont Manual High School, Louisville, KY, United States of America</li>
+</ul>
+<p>ENEV005 — <em>An Integrated Algae Mitigation System to Seek &amp; Abate Harmful Algal Blooms (Year 5)</em></p>
+<ul>
+<li>Sharanya S. Natarajan, Edgewood Junior Senior High School, Melbourne, FL, United States of America</li>
+</ul>
+<p><strong><u>Non-Trivial</u></strong></p>
+<p>How can you actually change the world? The Non-Trivial Fellowship is an online part-time program for high school students aged 14-20 to start solving the world’s most pressing problems. You’ll learn from experts like artificial intelligence pioneer Yoshua Bengio, get a $500 scholarship, and up to $15,000 in funding. We participate in ISEF to recognise and encourage projects tackling the world&#8217;s most pressing problems, like climate change, pandemics, and risks from artificial intelligence. Read more and apply: nntrvl.org/ISEF</p>
+<p><strong>10 scholarships for Non-trivial</strong></p>
+<p>ANIM004 — <em>Analysis of the Larvicidal Biopotential of Jua Bravo (Solanum viarum Dunal) on Mosquito Larvae Causing Tropical Diseases</em></p>
+<ul>
+<li>Pedro Paulo Milhomem Braga, Escola Santa Teresinha, Imperatriz, Brazil</li>
+</ul>
+<p>ANIM007 — <em>Utilizing Microbiome Transplants to Improve Landscape-Scale Mosquito Suppression</em></p>
+<ul>
+<li>Logan Tokuzo Kaenohomekahau&#8217;oli Lee, Iolani School, Honolulu, HI, United States of America</li>
+</ul>
+<p>CBIO013 — <em>Atomically Yours: Novel DeepGraphDTI Takes Fight Against Future Pandemics to the Next Level</em></p>
+<ul>
+<li>Wan Qin Lim, Hwa Chong Institution, Singapore, Singapore</li>
+</ul>
+<p>CELL031 — <em>Identification of Survivin as a Novel Longevity Biomarker: Towards Developing Novel Anti-Aging Therapeutics</em></p>
+<ul>
+<li>Lana Hamza Almazroei, Dar Al-Tarbia Al-Hadetha, Jeddah, Makkah, Saudi Arabia</li>
+</ul>
+<p>CHEM068 — <em>Optimizing Synthesis of mRNA Therapeutics</em></p>
+<ul>
+<li>Srijay Sritaharan Chenna, The Charter School of Wilmington, Newark, DE, United States of America</li>
+</ul>
+<p>ENBM059 — <em>DengueScreen: A Novel Computer Vision-Based Diagnostic Alternative for Dengue Fever Prioritizing Efficiency, Cost-Effectiveness, and Accuracy </em></p>
+<ul>
+<li>Jackson Wilson, Highlands High School, Fort Thomas, KY, United States of America</li>
+</ul>
+<p>ROBO057 — <em>AdvMed: Detecting Adversarial Attacks in Medical Deep Learning Systems</em></p>
+<ul>
+<li>Ayushi Mehrotra, Troy High School, Irvine, CA, United States of America</li>
+</ul>
+<p>ROBO063 — <em>Bias in Large Language Models (LLMs); Paving the Way for an Equitable Artificial General Intelligence (AGI)</em></p>
+<ul>
+<li>Rihito Kotani, Tokyo Gakugei University International Secondary School, Setagaya, Tokyo, Japan</li>
+</ul>
+<p>SOFT019 — <em>Back Propagation Neural Network Based Framework for Unknown Malware Detection</em></p>
+<ul>
+<li>Yi-Jhe Chen, The Affiliated Senior High School of National Taiwan Normal University, New Taipei City, Taiwan</li>
+</ul>
+<p>TMED044 — <em>MalaScope &#8211; A Low-Cost Deep Learning Sensor for Label-Free Detection of Malaria</em></p>
+<ul>
+<li>Gurnoor Kaur, Cameron Heights Collegiate Institute , Waterloo, Ontario, Canada</li>
+</ul>
+<p><strong><u>Office of Naval Research on behalf of the United States Navy and Marine Corps</u></strong></p>
+<p>The Naval Science Awards Program (NSAP) is a U.S. Navy and Marine Corps program that encourages our nation&#8217;s students to develop and retain an interest in science and engineering. NSAP recognizes the accomplishments of eligible students at regional and state science and engineering fairs, as well as the Regeneron International Science and Engineering Fair (ISEF) in producing and presenting quality science and engineering projects.</p>
+<p><strong>The Chief of Naval Research Scholarship Award of $15,000</strong></p>
+<p>EBED013 — <em>Project Vision: Assisted Navigation &amp; Waypoint Positioning Through 3D Mapping</em></p>
+<ul>
+<li>James Nagler, Garden City High School, Garden City, NY, United States of America</li>
+</ul>
+<p>ETSD025 — <em>How Magnetically Suspended Tires Utilizing High-Temperature Superconductivity and Electromagnetism Creates the Most Eco-Friendly Vehicle</em></p>
+<ul>
+<li>Isabella Alexandria Pinto, Hanford High School, West Richland, WA, United States of America</li>
+</ul>
+<p>ETSD039 — <em>Impact of Toroidal Propeller Design on Unmanned Aerial Vehicle Acoustic Signature and Aerodynamic Performance</em></p>
+<ul>
+<li>Hannah Brooke Jansen, Governor&#8217;s School at Innovation Park, Nokesville, VA, United States of America</li>
+</ul>
+<p>ETSD061 — <em>Higher-Efficiency Altitude-Adaptive Dynamic Rocket Engine Nozzle</em></p>
+<ul>
+<li>Timucin Erbas, Acton Boxborough Regional High School, Acton, MA, United States of America</li>
+</ul>
+<p>ROBO078 — <em>Zenith Soar X-4: Autonomous Drone for Autonomous Drone for Disaster Relief and Detection</em></p>
+<ul>
+<li>Daniel Tyreese Williams, East Coweta High School, Newnan, GA, United States of America</li>
+</ul>
+<p><strong><u>Patent and Trademark Office Society</u></strong></p>
+<p>The PTOS is a membership-based organization for Patent and Trademark professionals and other interested individuals. From its inception in 1917, the Society has been dedicated to the improvement and appreciation of the United States Patent and Trademark Systems through promoting the systems&#8217; growth and well-being, as well as promoting the social and intellectual welfare of the Society members.</p>
+<p><strong>A flag that was flown over the U.S. Capitol will be given to the top winner of this Special Award.</strong></p>
+<p>CHEM012 — <em>Chemical Modification of Acetaminophen to Decrease Liver Toxicity</em></p>
+<ul>
+<li>Chloe Yehwon Lee, Plano East Senior High School, Murphy, TX, United States of America</li>
+</ul>
+<p><strong>Top Award of $1,000, and an American flag and a framed copy of the first patent granted in the USA</strong></p>
+<p>CHEM012 — <em>Chemical Modification of Acetaminophen to Decrease Liver Toxicity</em></p>
+<ul>
+<li>Chloe Yehwon Lee, Plano East Senior High School, Murphy, TX, United States of America</li>
+</ul>
+<p><strong>Second Award of $500</strong></p>
+<p>ANIM042 — <em>BeeMind AI: Development of an AI-Based System to Assess Honeybee Health, Behavior, and Nutrient Effects on Learning and Memory</em></p>
+<ul>
+<li>Matthew Allen Lo, The Haverford School, Berwyn, PA, United States of America</li>
+</ul>
+<p>ANIM047 — <em>Determining the Distribution of Arginine in Gracilaria salicornia and Codium edule and Fibropapillomatosis Rates in Chelonia mydas in Kāneʻohe Bay</em></p>
+<ul>
+<li>Maddux Alexander Springer , Iolani School, Kaneohe, HI, United States of America</li>
+</ul>
+<p>BMED020 — <em>Early Detection of Ankylosing Spondylitis Using Analysis of Breathing Patterns With Neural Networks</em></p>
+<ul>
+<li>Jayveer Sachin Kochhar, Jamnabai Narsee International School, Mumbai, Maharashtra, India</li>
+</ul>
+<p>CHEM030 — <em>Next-Generation Coating: Tunable Self-Healing Material for Intelligent Protection of Metal Surfaces</em></p>
+<ul>
+<li>Shuyi Deng, YK Pao School, Shanghai, China</li>
+</ul>
+<p>ENBM082 — <em>AquaGuard: A Device for Real-Time Drowning Detection in Swimming Pools Utilizing Visual-Spatial Perception With Deep Encoder-Decoder Neural Networks</em></p>
+<ul>
+<li>Aadi Deshmukh, Moravian Academy, Macungie, PA, United States of America</li>
+</ul>
+<p>ETSD042 — <em>Submersible Aerial Vehicle Design Study</em></p>
+<ul>
+<li>Chetana Gunawardhana, Broad Run High School, Ashburn, VA, United States of America</li>
+</ul>
+<p>PHYS012 — <em>Development and Demonstration of a Low-Cost Strip-PET Scanner Prototype</em></p>
+<ul>
+<li>Samikshya Mahapatra, College Station High School, College Station, TX, United States of America</li>
+</ul>
+<p>PHYS040 — <em>Development of New Beam Configurations for OMEGA To Achieve Highly Uniform Indirect Drive Implosions With Cubic Symmetry</em></p>
+<ul>
+<li>Edward Wu, Pittsford Sutherland High School, Pittsford, NY, United States of America</li>
+</ul>
+<p>SOFT008 — <em>Revolutionizing CVD Prevention and Management: A Comprehensive AI-Powered Solution</em></p>
+<ul>
+<li>Adi Abedalqader AlHourani, Islamic Educational College &#8211; Jubeiha, Amman, Jordan</li>
+</ul>
+<p><strong><u>Qatar Research, Development, and Innovation Council</u></strong></p>
+<p>The Qatar Research, Development, and Innovation (QRDI) Council is committed to promoting advancements in research, development, and innovation initiatives locally and globally. QRDI catalyzes progress across various sectors, fostering collaboration and partnerships to address pressing societal issues and promote sustainable growth. The QRDI Awards acknowledge outstanding achievements in research and innovation across four distinct categories. Each team will receive a $500 award for their remarkable contributions to research and discovery.</p>
+<p><strong>The Qatar Research, Development, and Innovation Council awards will recognize 10 projects in the following categories: </strong>Cellular and Molecular Biology, Behavioral and Social Sciences, Engineering Technology: Statics &amp; Dynamics, Environmental Engineering, Biomedical and Health Sciences, Robotics and Intelligent Machines, Materials Science, Environmental Engineering, Earth and Environmental Sciences, and Embedded Systems</p>
+<p>BEHA011T — <em>A Sensor-Integrated Wearable Device for Support During Autism Spectrum Disorder Meltdowns by Applying the Deep Pressure Stimulation</em></p>
+<ul>
+<li>Dana Mazen Al-Momani, Jubilee School, Amman, Jordan</li>
+<li>Layan Atef Al-Shobaki, Jubilee School, Amman, Jordan</li>
+</ul>
+<p>BMED040 — <em>The Effect of Sugar Substitutes on Amyloid-BETA Plaque Aggregation: A Novel Link Between Type 2 Diabetes and Alzheimer&#8217;s Disease</em></p>
+<ul>
+<li>Paige Hinkle, Wilson High School , Sinking Spring, PA, United States of America</li>
+</ul>
+<p>CELL032T — <em>Decoding ASXL3: A Novel Biomarker for Neurodevelopmental Disorders </em></p>
+<ul>
+<li>Lara Hammoud, Detroit Country Day School, Franklin, MI, United States of America</li>
+<li>Maya Sarah Hammoud , Detroit Country Day School, Franklin , MI, United States of America</li>
+</ul>
+<p>EAEV070 — <em>Forward Modelling of Climate Change-Induced Sedimentation and Effects on Coastal Ecosystems</em></p>
+<ul>
+<li>Kevin Hao, Knox Grammar School, Sydney, New South Wales, Australia</li>
+</ul>
+<p>EBED021T — <em>A Comprehensive Assistive System for Enhancing Independence in Individuals with Quadriplegia</em></p>
+<ul>
+<li>Sultan Nasser Al-Malki, Qatar Science and Technology Secondary School for Boys, Doha, Qatar</li>
+<li>Talal Eisa Ghanem, Qatar Science and Technology Secondary School for Boys, Doha, Qatar</li>
+</ul>
+<p>ENEV018T — <em>Development of a Solar Powered Buoy to Measure and Report the Pollution Level of Wetlands</em></p>
+<ul>
+<li>Eray Akin, Izmir Fen Lisesi, Izmir, Bornova, Turkey</li>
+<li>Murat Leylekoglu, Izmir Fen Lisesi, Izmir, Turkey</li>
+<li>Nisa Iltekin, Izmir Fen Lisesi, Izmir, Bornova, Turkey</li>
+</ul>
+<p>ENEV028 — <em>Aerosol Driven Purification: A Novel Method for Purifying Water Utilizing Phase Changes</em></p>
+<ul>
+<li>Megan Reyna Yeager, Chesapeake Science Point Public Charter School, Gambrills , MD, United States of America</li>
+</ul>
+<p>ETSD017 — <em>SMART (Sustainable, Modular, Additively-manufactured, Robust, Tower-style) Urban Farming</em></p>
+<ul>
+<li>Gedeon Kusuma Ang, Raffles Institution, Singapore, Singapore</li>
+</ul>
+<p>MATS036 — <em>Development of Anti-Dust Nanostructured Silicon Dioxide Coating for Solar Cells</em></p>
+<ul>
+<li>Areej Alqarni, Al-Batool International School, Mecca, Saudi Arabia</li>
+</ul>
+<p>ROBO077 — <em>Renovation of Olive Cultivation Sector Using AI</em></p>
+<ul>
+<li>Ala Bouhaouel, Lycée 2 Mars 1934, Moknine, Tunisia</li>
+</ul>
+<p><strong><u>Qorvo</u></strong></p>
+<p>Qorvo technology has been at the heart of systems that connect, protect and power the planet for more than 30 years. As a company, we foster multiple outreach activities, focus on building a strong foundation for Science, Technology, Engineering, and Math (STEM). An important pillar of our Qorvo Cares Program is promoting STEM Education, where the passions of our scientific communities are cultivated, inspired, and transferred to the next generations of young people, including our future employees, customers, and global community networks.</p>
+<p><strong>Qorvo Innovator Award &#8211; 1st Place</strong></p>
+<p>PHYS031 — <em>A Novel System for Long-Range Wireless Power Transmission</em></p>
+<ul>
+<li>Anish Anand, Palos Verdes Peninsula High School, Ranch Palos Verdes, CA, United States of America</li>
+</ul>
+<p><strong>Qorvo Innovator Award &#8211; 2nd Place</strong></p>
+<p>ROBO047 — <em>Extraterrestrial Exploration Hexapod With Tactile AI-Based Gait Adjustment</em></p>
+<ul>
+<li>Haodong Wei, Cranbrook Kingswood School, Troy, MI, United States of America</li>
+</ul>
+<p><strong>Qorvo Innovator Award &#8211; 3rd Place</strong></p>
+<p>EBED019 — <em>MagGrid: Non-Levitative Electromagnet Robot Propulsion Method for 2-D Material Handling </em></p>
+<ul>
+<li>Shangqiu Li, Camas High School, Camas, WA, United States of America</li>
+</ul>
+<p><strong><u>Ricoh USA, Inc</u></strong></p>
+<p>Ricoh is empowering digital workplaces using innovative technologies and services that enable individuals to work smarter from anywhere. With cultivated knowledge and organizational capabilities nurtured over its 86-years history, Ricoh is a leading provider of digital services and information management, and print and imaging solutions designed to support digital transformation and optimize business performance. Ricoh has a long-standing environmental mission and commitment to sustainability, bringing corporate, social and environmental responsibilities into balance.</p>
+<p><strong>Ricoh Sustainable Development Award of $10,000</strong></p>
+<p>EGSD018 — <em>SkyWindFarm: Harnessing High Altitude Wind Power in Scalable Manner</em></p>
+<ul>
+<li>Yash Dagade, Eden Prairie High School, Eden Prairie, MN, United States of America</li>
+</ul>
+<p><strong><u>Serving Society Through Science</u></strong></p>
+<p>Serving Society Through Science (SSTS) is dedicated to recognizing talented individuals who seek to serve humanity. SSTS awards creative, outstanding projects that have the potential to improve the lives of people or represent a dramatic scientific advancement.</p>
+<p><strong>First Award of $1000</strong></p>
+<p>BMED037 — <em>Recasting an Anti-Psychotic as a Prevention for Multiple Arthritides: Discovery of a Novel Receptor and Mechanism of Action</em></p>
+<ul>
+<li>Vidya Ambati, Albemarle High School, Charlottesville, VA, United States of America</li>
+</ul>
+<p>MATH021 — <em>The Perforation of p-adics: Closing a Gap in Hensel&#8217;s Lemma Through the Convergence Inequality</em></p>
+<ul>
+<li>Imaad Uzun, New Rochelle High School, New Rochelle, NY, United States of America</li>
+</ul>
+<p><strong>Second Award of $500</strong></p>
+<p>ANIM039 — <em>Rhythms and Blues: Examining Potential Health Hazards of Blue Light-induced Circadian Disruption in Drosophila melanogaster</em></p>
+<ul>
+<li>Rania S. Lateef, Governor&#8217;s School at Innovation Park, Manassas, VA, United States of America</li>
+</ul>
+<p>ANIM047 — <em>Determining the Distribution of Arginine in Gracilaria salicornia and Codium edule and Fibropapillomatosis Rates in Chelonia mydas in Kāneʻohe Bay</em></p>
+<ul>
+<li>Maddux Alexander Springer , Iolani School, Kaneohe, HI, United States of America</li>
+</ul>
+<p>EGSD030 — <em>A Self-Adjusting Resonating Piezoelectric Vibration Energy Collector Based on a Cantilever Structure</em></p>
+<ul>
+<li>Jiayang Wang, Menaul School, Albuquerque, NM, United States of America</li>
+</ul>
+<p>ENBM056 — <em>Investigating the Effects of Hemarthrosis on the Structure and Function of ACL Repair</em></p>
+<ul>
+<li>Kento Luke Hong, Edgemont High School, Scarsdale, NY, United States of America</li>
+</ul>
+<p>ENEV042 — <em>A Novel Shade Dome to Reduce Water Evaporation in the Great Salt Lake </em></p>
+<ul>
+<li>Christina Zhang, InTech Collegiate High School, North Logan, UT, United States of America</li>
+</ul>
+<p>PHYS049 — <em>Discovery of Two Potentially Habitable Super-Earths! StealthPlanetFinder: Innovative &amp; Computationally Efficient Algorithms to Detect Exoplanets Overcoming Low Signal-to-Noise Ratio</em></p>
+<ul>
+<li>Khedaar Kashyap, Leland High School, San Jose, CA, United States of America</li>
+</ul>
+<p>ROBO038 — <em>Design of a Low-Cost, Low Inertia, Backdrivable Upper-Body Humanoid </em></p>
+<ul>
+<li>Jilly Abraham Choi, duPont Manual High School, Louisville, KY, United States of America</li>
+</ul>
+<p>TMED048 — <em>Analyzing the Effects of Altretamine Chemotherapy Drug on Drosophila melanogaster Ocular Melanoma Models</em></p>
+<ul>
+<li>Diya Ghosh, Academies of Loudoun, Leesburg, VA, United States of America</li>
+</ul>
+<p><strong><u>Shanghai Youth Science Education Society </u></strong></p>
+<p>Shanghai Youth Science Education Society (SYSES) is committed to popularizing and disseminating science and technology to young people and the public. As a leading STEM education organization which has a long history, SYSES works with hundreds of researchers and industry experts in STEM field, providing high-quality online and on-site STEM education resources and training programs. Awards are given to recognize outstanding projects in all disciplines.</p>
+<p><strong>Award</strong></p>
+<p>ENBM011 — <em>STEPs Ahead: Self-Powered Triboelectric Nanogenerator for Dynamic Multidirectional Pressure Sensing</em></p>
+<ul>
+<li>Jiaqi Wu, NUS High School of Mathematics &amp; Science, Singapore, Singapore</li>
+</ul>
+<p>ENEV002T — <em>Autonomous Ecosystem Surveillance Vehicle: An Autonomous Aquatic Environmental Patrol Boat Aimed at Reducing Current Capability Gaps in Aquatic Bio-Security Sector by Realtime Data Transmission</em></p>
+<ul>
+<li>Chit Bryan Lao , Pui Ching Middle School, Macau, China, Macao Special Administrative Region</li>
+<li>Pok Man Han, Pui Ching Middle School, Macau SAR, China, Macao Special Administrative Region</li>
+<li>Wang Hei Lei, Pui Ching Middle School, Macau, China, Macao Special Administrative Region</li>
+</ul>
+<p>PHYS057 — <em>A Novel Hadronization Model Explaining Charm-Quark Hadronization in Different Collision Systems Through Yet-Unobserved Excited States and Cluster Volume Dependence </em></p>
+<ul>
+<li>Shuhan Luo, Worcester Academy, Worcester, MA, United States of America</li>
+</ul>
+<p>ROBO032 — <em>Tremor-Adaptive Assistive Dining Solution: A Robotic Arm Integrating Computer Vision and Active Stabilization for Enhanced Autonomy</em></p>
+<ul>
+<li>Tianhao Shao, Shanghai Starriver Bilingual School, Shanghai, China</li>
+</ul>
+<p>TECA004T — <em>Revolutionizing Language Learning With Connexelerator: An AI-Powered Approach</em></p>
+<ul>
+<li>Ethan Snow, Liberty High School, Hillsboro, OR, United States of America</li>
+<li>Jared Lim, Liberty High School, Hillsboro, OR, United States of America</li>
+</ul>
+<p><strong><u>Sigma Xi, The Scientific Research Honor Society</u></strong></p>
+<p>Founded in 1886, Sigma Xi is the international honor society of research scientists and engineers, with a distinguished history of service to science and society. This multi-disciplinary society includes members who were elected based on their research achievements or potential, and historically, more than 200 members have won the Nobel Prize. The Society is pleased to offer awards for the best demonstration of interdisciplinary research.</p>
+<p><strong>First Life Science Award of $1,200</strong></p>
+<p>ANIM027T — <em>Identifying New Sponge Species From Qatar Marine Environment Using Molecular Techniques</em></p>
+<ul>
+<li>Alanood Ali Aljalahma, Qatar Technical School For Girls, Doha, Qatar</li>
+<li>Fajer Saif Albloshi, Qatar Technical School For Girls, Doha, Umm Qarn, Qatar</li>
+</ul>
+<p><strong>Second Life Science Award of $800</strong></p>
+<p>ANIM023T — <em>Reducing Carbon Footprint and Producing Biofuel From Waste Degradation and Conversion by Black Solider Fly</em></p>
+<ul>
+<li>Naphudon Sriratana, Bangkok Christian College, Bangkok, -, Thailand</li>
+<li>Paponphat Viroonvaiwut , Bangkok Christian College, Bangkok , Bangkok , Thailand</li>
+</ul>
+<p><strong>First Physical Science Award of $1,200</strong></p>
+<p>MATS048T — <em>Enhancing Tea-Waste Based Biopolymer Nanocomposite Performance Through a Biomimetic Cuticular Hydrocarbon Coating: A Sustainable Packaging Alternative</em></p>
+<ul>
+<li>Amal Fayad, Arizona College Prep High School, Gilbert, AZ, United States of America</li>
+<li>Siyaa Poddar, Arizona College Prep High School, Chandler, AZ, United States of America</li>
+</ul>
+<p><strong>Second Physical Science Award of $800</strong></p>
+<p>ENEV069T — <em>Eco-Friendly Fabric: Use of Algae and Seagrass in Paper Production</em></p>
+<ul>
+<li>Martin A. I. Stella Nieves, Colegio Bautista de Caguas, Caguas, Puerto Rico</li>
+<li>Patrick Noah Pena, Colegio Bautista de Caguas, Caguas, Puerto Rico</li>
+</ul>
+<p><strong>First Award Behavioral and Social Science Award of $1,200</strong></p>
+<p>BEHA028T — <em>The RIGHT Model: A Novel Personal Development Tool for Adolescents</em></p>
+<ul>
+<li>Jia Hui Keng, Heng Ee High School , Penang , Georgetown , Malaysia</li>
+<li>Sher Meng Neoh, Heng Ee High School , Gelugor, Penang, Malaysia</li>
+<li>Wan Yunn Ng, Heng Ee High School , Georgetown, Penang, Malaysia</li>
+</ul>
+<p><strong>Second Behavioral and Social Science Award of $800</strong></p>
+<p>BEHA011T — <em>A Sensor-Integrated Wearable Device for Support During Autism Spectrum Disorder Meltdowns by Applying the Deep Pressure Stimulation</em></p>
+<ul>
+<li>Dana Mazen Al-Momani, Jubilee School, Amman, Jordan</li>
+<li>Layan Atef Al-Shobaki, Jubilee School, Amman, Jordan</li>
+</ul>
+<p><strong><u>The University of Texas at Dallas</u></strong></p>
+<p>As one of the nation’s fasting growing research public universities, The University of Texas at Dallas is a Carnegie R1 doctoral classification university of very high research activity established by the founders of Texas Instruments. With nearly 31,000 students from over 100 different countries, UT Dallas offers top-ranked programs in the arts and sciences, engineering and management with a commitment to graduating well-rounded members of the global community whose education has prepared them for rewarding lives and productive careers in a constantly changing world.</p>
+<p><strong>Scholarship awards of $5,000 per year, renewable for up to four years</strong></p>
+<p>BEHA002 — <em>Targeting ADHD with a Noninvasive System to Improve Concentration Based on Electroencephalogram and Neurofeedback Methodology</em></p>
+<ul>
+<li>Emma Christine Lee, Stanton College Preparatory School, Jacksonville, FL, United States of America</li>
+</ul>
+<p>BEHA019 — <em>Illuminating Minds: Shining a Light on Atypical Dyslexia Therapies</em></p>
+<ul>
+<li>Madilyn Ann Dickinson, St. Patrick Catholic High School, Gulfport, MS, United States of America</li>
+</ul>
+<p>BEHA024 — <em>Using Bidirectional Transformer Neural Networks for Advancing Gender Bias Recognition in STEM Job Advertisements</em></p>
+<ul>
+<li>Nina Van Zandweghe, Solon High School, Solon, OH, United States of America</li>
+</ul>
+<p>BEHA061 — <em>GaitNet: A Medically Interpretable Video-Based System for Assessing Parkinsonian Gait Impairment Severity Using 2-Stream Spatiotemporal Neural Network</em></p>
+<ul>
+<li>Andrew Y. Liang, The Harker School, San Jose, CA, United States of America</li>
+</ul>
+<p>CBIO010 — <em>Using Machine Learning to Detect Sequential Patterns in the Temporal Ordering of Dynamic States as Candidate Biomarkers for Parkinson&#8217;s Disease</em></p>
+<ul>
+<li>Yahya Younus, Little Rock Central High School, Little Rock, AR, United States of America</li>
+</ul>
+<p>CBIO016 — <em>Combating the Drug Epidemic: A Machine-Learning Framework to Predict Novel Drug-Drug Interaction Risks of Illicit Drug Abuse</em></p>
+<ul>
+<li>Dean Wang, Century High School, Rochester, MN, United States of America</li>
+</ul>
+<p>CBIO043 — <em>Elucidating RSV-Host Protein-Protein Interactions: Novel implementation of Graph Attention Networks (GAT) and Structural Visualization</em></p>
+<ul>
+<li>Aditya Lakshminarasimhan, BASIS Scottsdale, Scottsdale, AZ, United States of America</li>
+</ul>
+<p>CELL036 — <em>Tinted Truths: Revealing the Relationship Between Tartrazine and the Dysregulation of Retrotransposons and p53 Expression in Drosophila melanogaster</em></p>
+<ul>
+<li>Manya Gummaraju, Plano East Senior High School, Plano, TX, United States of America</li>
+</ul>
+<p>CHEM012 — <em>Chemical Modification of Acetaminophen to Decrease Liver Toxicity</em></p>
+<ul>
+<li>Chloe Yehwon Lee, Plano East Senior High School, Murphy, TX, United States of America</li>
+</ul>
+<p>CHEM052 — <em>Analyzing Per- and Polyfluoroalkyl Substances (PFAS) Through Atomistic Simulations</em></p>
+<ul>
+<li>Akilan Sankaran, Albuquerque Academy, Albuquerque, NM, United States of America</li>
+</ul>
+<p>EAEV062T — <em>Acoustic Filtration: Harnessing Ultrasonic Technology for the Streamlined Removal of Microplastic Particles From Water Flow</em></p>
+<ul>
+<li>Justin Yizhou Huang, College Park High School, The Woodlands, TX, United States of America</li>
+<li>Victoria Ou, College Park High School, The Woodlands, TX, United States of America</li>
+</ul>
+<p>EBED014 — <em>SkyCatcher: An Annular-Structured UAV for Enhanced Grasping and Delivery Solutions</em></p>
+<ul>
+<li>Zijun Xu, Saint Stephen&#8217;s Episcopal School, Austin, TX, United States of America</li>
+</ul>
+<p>EGSD030 — <em>A Self-Adjusting Resonating Piezoelectric Vibration Energy Collector Based on a Cantilever Structure</em></p>
+<ul>
+<li>Jiayang Wang, Menaul School, Albuquerque, NM, United States of America</li>
+</ul>
+<p>ENBM017 — <em>GlaucoScreen: A Novel Deep Learning-Based System for Glaucoma Detection and Progression Monitoring</em></p>
+<ul>
+<li>Siddhartha Reddy Milkuri, Bentonville High School, Bentonville, AR, United States of America</li>
+</ul>
+<p>MATH002 — <em>Symmetry, Fixed Points and Quantum Billiards: A Confluence of Ideas</em></p>
+<ul>
+<li>Anna Oliva, Carnegie Vanguard High School, Houston, TX, United States of America</li>
+</ul>
+<p>MATS017 — <em>Colorimetric Smart Packaging System: A Carbohydrate-Based Plastic Alternative for Detecting Food Spoilage</em></p>
+<ul>
+<li>Cuauhtemoc Zamora, Veterans Memorial High School, Corpus Christi, TX, United States of America</li>
+</ul>
+<p>MCRO018 — <em>Bioinspired Materials to Reduce Infective Endocarditis in Artificial Heart Valves</em></p>
+<ul>
+<li>Megan Alexandria Whitt, Wilsonville High School, Wilsonville, OR, United States of America</li>
+</ul>
+<p>PHYS011 — <em>Investigating the Use of Parallel Computing With Quantum Computers </em></p>
+<ul>
+<li>Jesse Daniel Miller, College Park High School, The Woodlands, TX, United States of America</li>
+</ul>
+<p>PHYS014 — <em>Reinforcement Learning Based Kinematic Controller and Proportional-Integrative-Derivative Based Dynamic Controller for Soft Robots</em></p>
+<ul>
+<li>Anirudh Mazumder, Texas Academy of Mathematics and Science, Euless, TX, United States of America</li>
+</ul>
+<p>PLNT031 — <em>Aqua-Arsenic Remediation: Analysis of the Oryza sativa metagenome and Wet-Lab Approach to increase O. sativa Tolerance to Drought and Arsenic Through Hyper Expression of Aquaporin OsNIP2;1, OsNIP3;2, OsPIP2;2 genes (Year IV)</em></p>
+<ul>
+<li>Prisha Bhat, Plano East Senior High School, Richardson, TX, United States of America</li>
+</ul>
+<p>ROBO013 — <em>GaitGuardian: Real-Time Freezing of Gait Prediction and Progression Analysis for Parkinson&#8217;s Disease</em></p>
+<ul>
+<li>Viren Rayappa Bankapur, Independence High School, Frisco, TX, United States of America</li>
+</ul>
+<p>ROBO046 — <em>Home Occupancy Simulation Using Machine Learning</em></p>
+<ul>
+<li>Humam Al-Shami, Arkansas Connections Academy, Magnolia, AR, United States of America</li>
+</ul>
+<p>TMED007 — <em>Utilizing Indocyanine Green and Sodium Alginate With Microsphere Drug Delivery and Infrared Imaging: A Model to Create More Accessible Therapeutic and Diagnostic Tools for Cardiovascular Disease and Cancer</em></p>
+<ul>
+<li>Rashmi Rani Basu, Keystone School, San Antonio, TX, United States of America</li>
+</ul>
+<p>TMED012 — <em>Selection and Preclinical Testing of DNA Aptamers as Targeted Tau Therapies: A Novel Approach to Slow the Progression of Tauopathies</em></p>
+<ul>
+<li>Maya Reddy, Leander High School, Leander, TX, United States of America</li>
+</ul>
+<p><strong><u>TUBITAK The Scientific and Technological Research Institution of Türkiye</u></strong></p>
+<p><strong>TÜBİTAK</strong> is the leading agency for funding and conduct of research in Türkiye. <strong>TÜBİTAK</strong> is responsible for promoting, developing, organizing, conducting, coordinating research and development in line with national targets and priorities. <strong>TÜBİTAK</strong> not only supports innovation, academic and industrial R&amp;D studies but also develops scientific and technological policies and manages R&amp;D institutes, carrying on research, technology and development studies. <strong>TÜBİTAK</strong> will distribute 5 cash awards to the best projects, each of which is in the amount of $1,000 in ISEF 2024.</p>
+<p><strong>1st Prize Award</strong></p>
+<p>BMED038 — <em>A Novel Enhancement of Statinsâ Solubility with Hydroxypropyl BETA-Cyclodextrin Inclusion Complex via Molecular Dynamics and in vitro Validation</em></p>
+<ul>
+<li>Elyas Khan, Dar AlFikr Schools, Jeddah, Makkah, Saudi Arabia</li>
+</ul>
+<p>CELL018T — <em>Modeling the Possible Connection Between the Variation of Homozygous Birc6 Gene and the Premature Ovarian Insufficiency on Zebrafish (Danio rerio)</em></p>
+<ul>
+<li>Deren Zehra Unuvar, Izmir Ozel Ege Lisesi, Izmir, Kemalpasa, Turkey</li>
+<li>Zeren Ovul, Izmir Ozel Ege Lisesi, Izmir, Karsiyaka, Turkey</li>
+</ul>
+<p>EGSD016 — <em>Improving Aerodynamic Characteristics of Helical Wind Turbines With Modified Blades</em></p>
+<ul>
+<li>Anne Marie Bobes, Markgraf-Albrecht-Gymnasium Osterburg, Seehausen, Germany</li>
+</ul>
+<p>MATS001 — <em>A Self-Healing Flexible &#8220;Jelly-like&#8221; Zinc-Ion Battery: Empowering Wearable Devices and Safe Energy Storage</em></p>
+<ul>
+<li>Jonathan Xufeng Hu, Shanghai High School International Division, Shanghai, China</li>
+</ul>
+<p>SOFT044 — <em>Solving Second-Order Cone Programs in Matrix Multiplication Time</em></p>
+<ul>
+<li>Michelle Wei, The Harker School, Saratoga, CA, United States of America</li>
+</ul>
+<p><strong><u>U.S. Agency for International Development</u></strong></p>
+<p>The United States Agency for International Development (USAID) is the government agency that helps people create better futures for themselves &#8211; no matter what country they live in. USAID leads international development and humanitarian efforts to save lives, reduce poverty, strengthen democratic governance, and help people progress beyond assistance. USAID is leveraging the promise of innovation, technology and research to bring about positive change and solve some of the world’s most pressing challenges.</p>
+<p><strong>USAID Science for Development First Award &#8211; Global Health and Nutrition</strong></p>
+<p>ROBO036T — <em>SCOMAE: Diagnosing Tuberculosis From Cough Acoustics Using Supervised COntrastive Masked AutoEncoders</em></p>
+<ul>
+<li>Faisal Isam Nabulsi, Acalanes High School, Walnut Creek, CA, United States of America</li>
+<li>Michael Xu, The Taft School, East Brunswick, NJ, United States of America</li>
+</ul>
+<p><strong>Second Award Global Health and Nutrition</strong></p>
+<p>MATS042T — <em>Alternative Organic Sanitary Pads From Plant Fibers Enhanced with Gooseberry Extract Coating</em></p>
+<ul>
+<li>Siriarpha Panturaporn, Montfort College, Hang Dong, Chiang Mai, Thailand</li>
+<li>Siripapha Panturaporn, Montfort College, Hang Dong, Chiang Mai , Thailand</li>
+</ul>
+<p><strong>Third Award Global Health and Nutrition</strong></p>
+<p>ENBM059 — <em>DengueScreen: A Novel Computer Vision-Based Diagnostic Alternative for Dengue Fever Prioritizing Efficiency, Cost-Effectiveness, and Accuracy </em></p>
+<ul>
+<li>Jackson Wilson, Highlands High School, Fort Thomas, KY, United States of America</li>
+</ul>
+<p><strong>USAID Science for Development First Award &#8211; Education and Youth</strong></p>
+<p>SOFT038 — <em>AuralStudio: A Multisensory Development Environment With a Novel, Bytecode-Compiled Programming Language</em></p>
+<ul>
+<li>Abhishek Amit Shah, Green Level High School, Apex, NC, United States of America</li>
+</ul>
+<p><strong>Second Award Education and Youth</strong></p>
+<p>BEHA032 — <em>Prevention of Gun Violence Through the Buffering Effects of Intellectual Humility in Traumatized Psychopaths</em></p>
+<ul>
+<li>Maya Shah, Martin STEM School, Arlington, TX, United States of America</li>
+</ul>
+<p><strong>Third Award Education and Youth</strong></p>
+<p>BEHA054 — <em>A Review of the Use and Promotability of Mental Health Apps by Teenagers </em></p>
+<ul>
+<li>Nira Goyal, Martin County High School, Palm City, FL, United States of America</li>
+</ul>
+<p><strong>USAID Science for Development First Award &#8211; Climate and Environmental Protection </strong></p>
+<p>ENEV036 — <em>A New Cost-effective Adsorbent Device for Civic Remediation to Reduce Lead, Copper and Cadmium in Surface Water Runoff</em></p>
+<ul>
+<li>Kshemaahna Nagi, Vidyashilp Academy, Bengaluru, India</li>
+</ul>
+<p><strong>Second Award Climate and Environmental Protection</strong></p>
+<p>ENEV011 — <em>A Low Cost and High Performance Xylem-Activated Carbon Filter Water Purification Device: A Novel Approach to the Global Clean Water Crises</em></p>
+<ul>
+<li>Ruvarashe Moyo, USAP Community School, Harare, Harare, Zimbabwe</li>
+</ul>
+<p><strong>Third Award Climate and Environmental Protection</strong></p>
+<p>ENEV004T — <em>Leveraging Electrochemistry and Light Scattering to Improve Air Quality Detection</em></p>
+<ul>
+<li>Haaris Masood, Scarsdale International School, Lahore, Punjab, Pakistan</li>
+<li>Haon Kim, Scarsdale International School, Lahore, Punjab, Pakistan</li>
+</ul>
+<p><strong>USAID Science for Development First Award &#8211; Working in Crisis and Conflict </strong></p>
+<p>BEHA015 — <em>Differential Empathy, Social Dominance Orientation, and the Limitations of Social Science Research</em></p>
+<ul>
+<li>Sierra Anne Sun, The Waterford School, Sandy, UT, United States of America</li>
+</ul>
+<p><strong>Second Award Working in Crisis and Conflict</strong></p>
+<p>EBED006T — <em>A Mesh Network-Integrated Multi-Robot Team With Electronic Nose for Human Detection Under Rubble in Post-Disaster Scenarios</em></p>
+<ul>
+<li>Burak Eren Demir, Ataturk High School of Science, Yalova, Turkey</li>
+<li>Muhammet Basar Ozcan, Ataturk High School of Science, Manisa, Turkey</li>
+<li>Salih Celik, Ataturk High School of Science, Afyonkarahisar, City Centre, Turkey</li>
+</ul>
+<p><strong>Third Award Working in Crisis and Conflict</strong></p>
+<p>ROBO043 — <em>Urban Slum Detection and Mapping: Semantic Segmentation on VHR Satellite Imagery</em></p>
+<ul>
+<li>Meenakshi Nair, Mission San Jose High School, Fremont, CA, United States of America</li>
+</ul>
+<p><strong><u>United States Environmental Protection Agency</u></strong></p>
+<p>From nanomaterials a billionth of a meter in size to global climate dynamics, EPA scientists and engineers are investigating every scale of our environment and the links between environment and human health. EPA conducts research that addresses the highest priority science needs of the nation. The work performed by EPA scientists, engineers and their research partners improves the quality of the air we breathe, the water that sustains us, and the land upon which we live.</p>
+<p><strong>The Patrick Hurd Sustainability Award covers travel for the ISEF finalist to attend and participate in EPA&#8217;s National Sustainable Design Expo</strong></p>
+<p>EAEV065 — <em>Spectroscopic and Colorimetric Analysis of Textiles Dyed With Local Invasive Plant Species and Waste-Derived Mordants</em></p>
+<ul>
+<li>Lucia Marie Lammers, Harrison High School, Harrison , NY, United States of America</li>
+</ul>
+<p><strong>Honorable Mention </strong></p>
+<p>ENEV039 — <em>From Trash to Treasure: Fighting Desertification With Sustainable Soil Amending Hydrogels Synthesized From Food Waste</em></p>
+<ul>
+<li>Sarah Rumei Gao, Canyon Crest Academy, San Diego, CA, United States of America</li>
+</ul>
+<p><strong><u>University of Arizona</u></strong></p>
+<p>Established in 1885, the University of Arizona is the state’s land-grant university. Recognized as a global leader, Arizona is also a leader in research, bringing more than $622 million in research investment each year, and ranking 21st among all public universities. Arizona offers over 300 undergraduate and graduate degree programs in 16 academic colleges. Arizona will award scholarships to outstanding awardees who have demonstrated robust research for the greater good of society.</p>
+<p><strong>Renewal Tuition Scholarship </strong></p>
+<p>ANIM024 — <em>Analysis of Equine Gut Microbiota by Living Environment</em></p>
+<ul>
+<li>Lauren Tittel, Oregon Episcopal School, Sherwood, OR, United States of America</li>
+</ul>
+<p>ANIM041T — <em>Investigating the Apoptotic Induction Potential of Various Chemical Food Preservatives on Caenorhabditis elegans</em></p>
+<ul>
+<li>Jishnu Nayak, Arizona College Prep High School, Gilbert, AZ, United States of America</li>
+<li>Ohm Patel, Arizona College Prep High School, Chandler, AZ, United States of America</li>
+</ul>
+<p>BEHA002 — <em>Targeting ADHD with a Noninvasive System to Improve Concentration Based on Electroencephalogram and Neurofeedback Methodology</em></p>
+<ul>
+<li>Emma Christine Lee, Stanton College Preparatory School, Jacksonville, FL, United States of America</li>
+</ul>
+<p>BEHA045 — <em>Harmony: A Remote AI-based Monitoring and Prediction System for Manic and Depression Episodes in Bipolar Disorders</em></p>
+<ul>
+<li>Sahar Ashraf Ahmed, City Schools, Sohag, Egypt</li>
+</ul>
+<p>BMED029 — <em>Unraveling the Achilles&#8217; Heel of Human Tumors: Moving Towards Inducing Mutational Meltdown by Deciphering the Most Deleterious Mutational Processes</em></p>
+<ul>
+<li>Auhona Hia Shil, University High School, Tucson, AZ, United States of America</li>
+</ul>
+<p>BMED077 — <em>FungiBug: Detection of Fungal Infection via a Rapid, Accurate, Handheld Small Blood Volume Diagnostic Device and Color Analysis</em></p>
+<ul>
+<li>Rishabh Sreepathy, ASU SCENE, Scottsdale, AZ, United States of America</li>
+</ul>
+<p>BMED090 — <em>Development of a Cathepsin B-Responsive Hydrogel for the Targeted Delivery of Cancer Immunotherapy</em></p>
+<ul>
+<li>Noah Russell Kaleekal, Irvington High School, Fremont, CA, United States of America</li>
+</ul>
+<p>CBIO012 — <em>A-BiRD: Automated Bird Recognition Device – Revolutionizing Ornithological Research for Global Bird Conservation</em></p>
+<ul>
+<li>Finnegan Liam McGill, Tanque Verde High School, Tucson, AZ, United States of America</li>
+</ul>
+<p>CBIO043 — <em>Elucidating RSV-Host Protein-Protein Interactions: Novel implementation of Graph Attention Networks (GAT) and Structural Visualization</em></p>
+<ul>
+<li>Aditya Lakshminarasimhan, BASIS Scottsdale, Scottsdale, AZ, United States of America</li>
+</ul>
+<p>CELL027 — <em>The Function of p53 in Intestinal Epithelium Wound Healing</em></p>
+<ul>
+<li>Sohini Mallick, University High School, Tucson, AZ, United States of America</li>
+</ul>
+<p>CELL043 — <em>Dissecting Glioblastoma: CRISPR Knockout of Hif-1ALPHA Disrupts Downstream Targets</em></p>
+<ul>
+<li>Neve Eliza Bawden, Bountiful High School, Bountiful, UT, United States of America</li>
+</ul>
+<p>CHEM035 — <em>Novel TMOS-Dependent Synthesis of Water-Stable CsPbBr3-SiO2 Nanoparticles for Bioimaging Applications </em></p>
+<ul>
+<li>Katherine Lam, University High School, Tucson, AZ, United States of America</li>
+</ul>
+<p>EAEV003 — <em>Tree Rings as a Potential Monitoring Tool for Saltwater Intrusion </em></p>
+<ul>
+<li>Alynza Isabella McBride, South Sumter High School, Webster, FL, United States of America</li>
+</ul>
+<p>EAEV031 — <em>Ferrofluid Extraction of Microplastics</em></p>
+<ul>
+<li>Juliannah Gavin, Veritas Christian Community School, Sierra Vista , AZ, United States of America</li>
+</ul>
+<p>EAEV086 — <em>Aquatic Toxicity of Sunscreen Ingredients in Freshwater Ecosystems</em></p>
+<ul>
+<li>Mallika Joy Sinha, BASIS Peoria, Peoria, AZ, United States of America</li>
+</ul>
+<p>EAEV101 — <em>Investigating Concentrates of Uranium and Other Hazardous Metals/Metalloids in the Surrounding Environments of Uranium Contaminated Waters on the Navajo Nation</em></p>
+<ul>
+<li>Haylei Redhouse, Navajo Preparatory School, Tsaile, AZ, United States of America</li>
+</ul>
+<p>ENBM067 — <em>A Rigid-Elastic Hybrid Finger Exoskeleton Rehabilitation System (FERS) for Stroke Patients With Motor Impairment</em></p>
+<ul>
+<li>Brad Wu, Arizona College Prep High School, Chandler, AZ, United States of America</li>
+</ul>
+<p>ETSD066 — <em>I.D.A.S &#8211; Interlocking Drone Aerial Swarm: Enhancing Thrust and Battery Configuration Flexibility</em></p>
+<ul>
+<li>Yuvan Senthil, BASIS Peoria, Phoenix, AZ, United States of America</li>
+</ul>
+<p>MATS048T — <em>Enhancing Tea-Waste Based Biopolymer Nanocomposite Performance Through a Biomimetic Cuticular Hydrocarbon Coating: A Sustainable Packaging Alternative</em></p>
+<ul>
+<li>Amal Fayad, Arizona College Prep High School, Gilbert, AZ, United States of America</li>
+<li>Siyaa Poddar, Arizona College Prep High School, Chandler, AZ, United States of America</li>
+</ul>
+<p>MCRO032T — <em>Bacterial Acoustic: Investigating the Impact of White Noise on the Growth of E. coli </em></p>
+<ul>
+<li>Andrea Angelye Ananya Betancourt, Harvest Preparatory Academy, Yuma, AZ, United States of America</li>
+<li>Diana Paula Navarro Ruiz, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+<li>Diane Sofia Ladino, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+</ul>
+<p>PHYS054 — <em>Beyond the Star: A Data-Driven Approach to Exoplanet Classification</em></p>
+<ul>
+<li>Prithika Chauhan, Hamilton High School, Gilbert, AZ, United States of America</li>
+</ul>
+<p>PLNT035T — <em>Pest Buster! Pests Repelling Biodegradable Weed Barrier Infused with Grape Skin and Turmeric Extracts: Year 2 Study</em></p>
+<ul>
+<li>Humberto Gil Villalobos, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+<li>Michael Tristan Castro Lucero, Harvest Preparatory Academy, San Luis, AZ, United States of America</li>
+</ul>
+<p>PLNT058 — <em>A Prickly Project: Extracting and Quantifying Oxalate Concentrations in Opuntia engelmannii </em></p>
+<ul>
+<li>Ella Walsh, University High School, Tucson, AZ, United States of America</li>
+</ul>
+<p>SOFT045T — <em>Mouseless Mouse: Enhancing Digital Interaction for Individuals With Limited Hand Mobility via Amplify and Smooth Extracted Data From Head Movement Using Real-Time Facial Tracking and Deep Learning</em></p>
+<ul>
+<li>Mohamed Hemdan Hemdan, Obour STEM School, Giza, Egypt</li>
+<li>Mohamed Maher Abdalla, Obour STEM School, Cairo, Egypt</li>
+</ul>
+<p>TMED002 — <em>Disinfectant Properties of Nuphar advena: An Ethnopharmaceutical Approach</em></p>
+<ul>
+<li>Johanna Lynn Bernu, Cloquet Senior High School, Cloquet, MN, United States of America</li>
+</ul>
+<p><strong><u>Westlake University</u></strong></p>
+<p>Established in 2018, Westlake University is a leading research university with a strong emphasis on fundamental scientific research and cutting-edge technological innovation in Hangzhou, China. Our university is making pioneering research breakthroughs and advancing the frontiers of knowledge by inspiring the next generation of leaders in science and engineering from diverse cultures through world-class research, international collaboration, and academic programs taught in English.</p>
+<p><strong>Westlake University is awarding Pre-college Summer Program Scholarships, covering the program fee, lodging, food, insurance, round-trip international airfare, and excursions in Hangzhou &amp; Shanghai this summer, to two finalists. Outstanding students will be given priority with full scholarships for undergraduate admissions, applicable to any major, at Westlake University.</strong></p>
+<p>ENEV035 — <em>The Homemade Integration of Biodegradable Materials Into Hydroponics: Using Sawdust and Tannins to Detoxify Greywater</em></p>
+<ul>
+<li>Ian James Lentz, Camp Hill High School, Camp Hill, PA, United States of America</li>
+</ul>
+<p>PLNT020 — <em>Mars or Bust! A Method to Build a Martian Regolith-Based Substrate for Sustainable Agriculture on Mars</em></p>
+<ul>
+<li>Quinn Jacie Hughes, Minnetonka High School, Mound, MN, United States of America</li>
+</ul>
+<p><strong><u>YM American Academy</u></strong></p>
+<p>YM American Academy (YMAA) is a leading education consulting organization, dedicated to help US and Chinese students apply to US universities, graduate schools and high schools. We are focusing on the student&#8217;s life growth through our comprehensive service and guidance. YM American Academy (YMAA) is pleased to award outstanding projects that display outstanding creativity, ingenuity in science and engineering, focusing on all areas in chemistry sciences.</p>
+<p><strong>First Award of $3,000</strong></p>
+<p>CHEM064 — <em>Unveiling New Horizons in 2D Materials: Computational Discovery of a Metallic Boron Nitride Monolayer</em></p>
+<ul>
+<li>Jerry Chen, Saint John&#8217;s School, Carolina, Puerto Rico</li>
+</ul>
+<p><strong>Second Award of $1000</strong></p>
+<p>CHEM025T — <em>B.O.P.I : Black Pepper, Oregano and Pineapple Peel Insecticide as an Novel, Cost-Effective and Eco-friendly Fumigant to Eradicate Sitophilus oryzae </em></p>
+<ul>
+<li>Khai Chin Ong, Chung Ling High School Penang, Georgetown, Penang, Malaysia</li>
+<li>Shun Zhan Na, Chung Ling High School Penang, Georgetown, Penang, Malaysia</li>
+</ul>
+<p><strong>Third Award of $500.00 </strong></p>
+<p>CHEM012 — <em>Chemical Modification of Acetaminophen to Decrease Liver Toxicity</em></p>
+<ul>
+<li>Chloe Yehwon Lee, Plano East Senior High School, Murphy, TX, United States of America</li>
+</ul>
+<p>CHEM049 — <em>Quantifying Live Cell Liquid-Liquid Phase Separation Condensates</em></p>
+<ul>
+<li>Lilian Gan, University High School, Irvine, CA, United States of America</li>
+</ul>
